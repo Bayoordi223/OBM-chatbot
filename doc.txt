@@ -1,0 +1,5 @@
+pip show flask
+pip install flask
+to run the code : python server.py
+You can get inspiration from this website  https://preview.themeforest.net/item/talkie-chatbot-landing-page-wordpress-theme/full_screen_preview/25429798?_ga=2.152605113.1071253393.1747125625-2075683444.1747125625
+
