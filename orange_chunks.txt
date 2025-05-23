@@ -1,0 +1,2391 @@
+A.Nos solutions
+
+1.Internet & Réseaux
+
+Internet & Réseaux
+Un réseau puissant et fiable est la clé de voute d'une activité digitale performante. Bénéficiez d'une connectivité fibre agile et sécurisée, partout dans le monde et à très haute garantie de disponibilité.
+
+Réseau augmenté
+Transformez votre réseau par un pilotage intelligent et une connectivité native au cloud
+Flexible SD-WAN
+Libérer le potentiel de votre réseau en toute sécurité
+Adaptez le réseau de votre entreprise à vos besoins business
+Protégez la continuité de votre activité et garantissez l’intégrité à tous les niveaux
+Pilotez en temps réel votre connectivité via une interface unique
+Booster votre connectivité grâce à Flexible SD-WAN
+Avec Flexible SD-WAN, bénéficiez d'une gestion simplifiée et d'une performance réseau optimale. Flexible SD-WAN est conçue pour accompagner votre activité et répondre à vos enjeux de sécurité et d'agilité.
+
+Détail de l'offre
+
+---
+
+Le meilleur de SD-WAN à chaque étape de votre transformation digitale
+Nous collaborons avec les leaders du marché pour vous offrir le choix de la technologie et un accompagnement adapté à vos besoins. Vous n’avez plus qu’à vous concentrer sur votre cœur de métier.
+
+Flexible SD-WAN avec Fortinet
+Votre solution SD-WAN et sécurité tout-en-un
+
+Inclus
+Niveaux de sécurité et de protection élevés
+Routage intelligent et dynamique
+Portail de gestion centralisée et visibilité complète du réseau
+Accès direct et sécurisé aux ressources cloud
+Service de conseil SD-WAN et d'accompagnement personnalisé
+Flexible SD-WAN avec Cisco
+Une solution idéale pour les entreprises à la recherche de fonctionnalités de routage avancées
+
+---
+
+Inclus
+Différentes topologies réseau disponibles pour s'adapter à votre organisation
+Routage intelligent et dynamique
+Portail de gestion centralisée et visibilité complète du réseau
+Accès direct et sécurisé aux ressources cloud
+Service de conseil SD-WAN et d'accompagnement personnalisé
+Flexible SD-WAN avec VMware
+Votre solution qui allie agilité, automatisation, intégration cloud et performances applicatives supérieures
+
+Inclus
+Solution cloud native et écosystème axé sur la stratégie API First
+Routage intelligent et dynamique
+Portail de gestion centralisée et visibilité complète du réseau
+Accès direct et sécurisé aux ressources cloud
+Service de conseil SD-WAN et d'accompagnement personnalisé
+
+---
+
+Flexible SD-Branch
+Gérer l'ensemble de votre réseau d'entreprise depuis une seule console sécurisée accessible dans le cloud à moindre coût pour une expérience utilisateur optimale et une sécurité sans faille
+Bénéficier d'une solution complète et unifiée : LAN, WiFi, SD-WAN, Sécurité, IoT
+Gérer l'ensemble de votre solution réseau depuis une plateforme d'administration sécurisée accessible dans le cloud
+Piloter sereinement l'ensemble de vos sites depuis une console d'administration sécurisée
+Catalogue Evolution Platform
+Composez, déployez et gérez facilement une plateforme de services de connectivité, de cybersécurité et de cloud, qui suit l'évolution des besoins de votre entreprise.
+Alliez la performance du réseau Orange Business à la richesse des solutions de nos partenaires en termes de connectivité cybersécurité et cloud
+Gérez facilement l'ensemble de vos solutions depuis une interface unique
+Optimisez vos coûts grâce à une tarification au prorata journalier
+Présentation
+
+---
+
+Administrer vos infrastructures réseaux directement dans le cloud
+Orange Business vous propose Flexible SD-Branch pour contrôler, administrer et optimiser votre réseau LAN et/ou WAN depuis le cloud
+
+Avec Flexible SD-Branch, vous bénéficiez d'une solution de connectivité compétitive et sécurisée administrée depuis le cloud.
+Depuis le Meraki dashboard, vous obtenez automatiquement les mises à jour logicielles de vos équipements, une amélioration continue des services et une excellente visibilité applicative du trafic sur votre réseau.
+
+Détail de l'offre
+
+Une infrastructure réseau complète et sécurisée gérée depuis le cloud
+Flexible SD-Branch
+Flexible SD-Branch comprend différents modules (LAN, WAN, sécurité, caméra, IoT) que vous pouvez choisir ensemble ou séparément en fonction de vos besoins, administrables depuis le portail de gestion Meraki (Meraki Dashboard).
+
+---
+
+Inclus
+Wi-Fi
+Sécurité/ SASE
+Accompagnement complet
+LAN
+IoT
+Un accompagnement complet pour la mise en place de vos équipements
+1
+Définition de l'architecture
+Nos experts définissent votre infrastructure en avant-vente dès la phase de réponse tout en prenant en compte votre existant et en affinant si nécessaire.
+2
+Configuration des équipements
+Nos ingénieurs effectuent un provisioning des configurations dans la plateforme d'administration cloud de Cisco Meraki.
+3
+Installation/Déploiement sur site
+Un technicien se déplace directement sur vos sites et procède à l'installation des équipements puis effectue une validation technique et fonctionnelle.
+4
+Maintenance de l'infrastructure
+Vous bénéficiez d'un Helpdesk permettant d’ouvrir un ticket par téléphone, mail ou web, d'un support niveau 2 et 3 par nos experts et d'un GTR J+1 à 4h en cas de défaillance.
+Exemples
+
+---
+
+Dans quels cas utiliser Flexible SD-Branch ?
+01. Mise en place d'une vidéo détection
+02. Rendre facilement un local ou bâtiment intelligent
+03. Mobilité des utilisateurs avec un wifi performant
+Mise en place d'une vidéo détection
+Mise en place d'une vidéo détection
+Protéger vos clients, vos collaborateurs ou vos biens.
+
+Déploiement de caméras intelligentes.
+Stockage et traitement de la vidéo sur les caméras ou dans le cloud.
+Architecture simple : une caméra et sa licence.
+Gestion et administration via le dashboard Meraki.
+Rendre facilement un local ou bâtiment intelligent
+Rendre facilement un local ou bâtiment intelligent
+Renforcer la sécurité de vos sites à distance.
+
+---
+
+Déploiement de sondes pour la détection de fuites d'eau, d'intrusions et pour le suivi de température et des prises électriques.
+Déploiement de caméras intelligentes.
+Gestion et administration via le dashboard Meraki.
+Mobilité des utilisateurs avec un wifi performant
+Mobilité des utilisateurs avec un wifi performant
+Profiter d'une gamme complète de points d'accès wifi haute performance pour la bureautique et les applications métier.
+
+Fourniture et configuration à distance de bornes wifi (MR) sur LAN client existant.
+Livraison, installation et câblages possibles.
+Support à distance et maintenance sur site.
+Gestion et administration via le dashboard Meraki.
+Les bénéfices de Flexible SD-Branch
+Gérez votre réseau en temps réel
+
+Vous avez une vue sur les utilisateurs et appareils connectés à votre réseau et selon vos sites, l'utilisation de votre bande passante et les différentes applications de votre entreprise.
+Sécurisez votre infrastructure réseau
+
+---
+
+Vous identifiez chaque utilisateur et terminal, contrôlez et filtrez les contenus correspondants à plus d'un milliard d'URLs. Vous effectuez un contrôle complet des réseaux et des applications de votre entreprise grâce au pare-feu nouvelle générat...
+Optimisez vos coûts IT
+
+Vous n'avez pas besoin d'acheter ni d'exploiter un contrôleur, des plateformes de gestion de services IT (réseau, IOT, sécurité…) ou encore une solution de visibilité applicative.
+Réduisez la complexité de votre infrastructure réseau
+
+Vous optimisez ainsi la performance de votre équipe en charge de l’IT au sein de votre entreprise grâce à un portail de gestion simple et unifié pour le LAN, le WAN et la sécurité
+Témoignages
+
+---
+
+Ce que nos clients disent de nous
+1/2
+Brice Auvray, Responsable Informatique, Groupe Valeco
+“ Cette solution SD-Wan convient parfaitement à une PME comme la nôtre. Elle est performante et simple d’utilisation. Nous n’avons pas besoin de nous appuyer en interne sur des ingénieurs réseau pour la gérer ou la déployer. ”
+
+---
+
+SD-WAN Essentials
+Démarrez votre transformation vers un réseau virtuel chiffré et sécurisé, en toute simplicité, avec l’approche One Box
+Un réseau virtuel chiffré et sécurisé
+Une option de Flexible internet pour enrichir votre connectivité
+Un seul routeur dans une approche One Box
+Virtual Network Edge
+Libérez la puissance de la connectivité virtualisée à la périphérie de votre réseau
+Déployez et configurez vos fonctions réseau virtuelles en toute autonomie ou accompagné par Orange
+Utilisez un riche catalogue de fonctions réseau virtuelles fournies par des partenaires leaders du marché
+Bénéficiez de la performance, de la résilience et de la couverture globale du réseau Orange reconnu comme leader par les analystes
+Réseau local
+Une gestion autonome et digitale de votre réseau local
+Mon réseau local
+Une solution LAN à la carte pour bâtir ou étendre un réseau local d'entreprise
+Constituez votre infrastructure réseau au fur et à mesure de vos besoins
+Disposez d’un accès au réseau sans fil haut débit, en tout point du réseau
+Protégez votre réseau contre toute attaque frauduleuse
+Réseau privé virtuel
+Fédérez vos collaborateurs partout et sur tout terminal via un socle IP robuste
+Business Ethernet Série 2
+Accédez au très haut débit fibre
+Network on Demand : une gestion digitale en temps réel de votre réseau
+Un réseau Ethernet évolutif avec des débits allant jusqu'à 40 Gbit/s
+Interconnectez à très haut débit vos sites avec l'agilité d'un LAN étendu
+Commande Réseau
+Faites évoluer votre réseau Business VPN en toute simplicité
+Commandez, modifiez, dupliquez, résiliez vos sites en quelques clics
+Bénéficiez d'une visibilité totale et actualisée sur vos échéances
+Maîtrisez vos budgets et vos temps de déploiement
+Connectivité Satellite
+Profitez de nos solutions dans les zones les plus reculées du monde et améliorez la communication entre vos sites grâce à la connectivité par satellite.
+Optez pour un moyen de connectivité omniprésent, du centre-ville aux zones les plus reculées du monde
+Gardez une solution de secours fiable pour rester connecté en toute circonstance
+Assurez vos communications en toute liberté et sécurité grâce à nos solutions mobiles
+Business VPN
+Un réseau privé d’entreprise performant, sécurisé et accessible dans le monde entier
+Disposez d'une solution VPN évolutive au rythme de vos projets
+Facilitez l'accès à une information sécurisée où que vous soyez
+Contrôlez votre budget en optimisant vos investissements
+Internet
+Un accès internet fiable et performant
+Flexible internet
+Optimiser votre accès internet à la demande
+Modifiez en totale autonomie le débit de votre accès internet selon les besoins de votre entreprise
+Profitez d'un accès internet mobile, performant et agile avec la connexion haut débit de votre choix
+Bénéficiez de nombreuses options et d'un engagement de service de qualité notamment avec une garantie de temps de rétablissement en moins de 10 h
+Security Game
+Sensibiliser vos équipes à la cybersécurité et aux risques numériques de façon ludique et proactive.
+Transformez la sensibilisation à la cybersécurité en un jeu éducatif et ludique
+Apportez une approche innovante pour sensibiliser vos collaborateurs aux cyberattaques
+Renforcez l'implication et les compétences de vos équipes face aux différents risques numériques
+
+---
+
+2.Téléphonie fixe & voix
+
+
+Téléphonie fixe & Voix
+La voix, pilier des communications unifiées et de la mobilité, est un élément essentiel du parcours client et collaborateur. Exigez une téléphonie d'entreprise de qualité, résiliente et 100% disponible, partout et via tout terminal, enrichie de solutions UC et VoIP.
+
+---
+
+Voix sur IP
+Enrichissez votre téléphonie avec la qualité et les fonctionnalités du réseau internet
+Business Voix et Collaboration
+Bénéficier de la VOIP et d'un Internet Très Haut Débit
+La téléphonie sans compter, pour tous les usages
+Un Internet haut débit, fiable et sûr
+Maintien des équipements de téléphonie actuels
+Business Talk IP
+Bénéficier de la voix sur IP sur tous vos sites en France et à l'international, pour tous types d'architectures et d'équipements.
+Bénéficiez d’une solution VOIP multi-sites qui s’adapte à votre architecture
+Optimisez et sécurisez la gestion de vos appels
+Profitez de communications incluses entre tous vos sites
+Ligne Fixe Business
+Bénéficier d'une solution voix sur IP clé en main pour vos usages voix et "spéciaux"
+Accédez à la téléphonie IP en toute simplicité pour remplacer votre ligne analogique et moderniser vos réseaux
+Bénéficiez d'une offre VoIP monoligne (LiveBox Pro incluse) pour des besoins en téléphonie simple et pour raccorder des usages spéciaux
+Profitez d'un ensemble de services voix inclus ou en option pour optimiser votre téléphonie et votre facture
+Business Voix Basic
+Bénéficier d'une solution VOIP multilignes dimensionnée selon les besoins de votre entreprise.
+Accédez à la téléphonie IP en toute simplicité en remplacement de Numéris
+Bénéficiez d'une offre VoIP multilignes sans changer vos équipements de téléphonie
+Profitez d'un ensemble de services voix inclus ou en option pour optimiser votre téléphonie et votre facture
+Business Voix Basic Multi Ligne Fixe Business
+Bénéficiez d'une solution Voix sur IP clé en main pour vos usages voix et "spéciaux"
+Accédez à la téléphonie IP en toute simplicité en remplacement de la ligne analogique
+Bénéficiez d'une offre VoIP multilignes avec un seul équipement pour raccorder vos usages voix et "spéciaux"
+Profitez d'un ensemble de services voix inclus ou en option pour optimiser votre téléphonie et votre facture
+Collaboration
+Faites évoluer votre téléphonie vers la communication unifiée
+Multi Connect
+Solutions de téléphonie IP et de collaboration pour optimiser votre environnement de travail au bureau ou à distance.
+Bénéficiez d'une gamme de solutions IP clé en main pour mieux collaborer
+Optimisez votre environnement de travail au bureau ou à distance
+Choisissez l'offre Multi Connect qui convient le mieux à vos usages
+Téléphonie
+Exigez la qualité pour votre téléphonie d’entreprise sur tout type d’hébergement et de technologie
+Multi Connect Business
+Optimisez vos communications pour gagner en productivité avec une solution UCaaS packagée
+Bénéficiez d'une solution packagée de communications et de collaboration en mono ou multi-sites
+Une solution clés en main avec des profils d’utilisateurs préconfigurés pour être déployés facilement
+Tous les avantages de la voix sur IP
+Multi Connect Office
+Téléphonie et collaboration pour les petites entreprises
+Disposez de fonctionnalités téléphoniques et de services collaboratifs enrichis
+3 types d'architectures proposées selon vos besoins : intégré, hybride, externalisé chez Orange
+Une solution tout inclus et clés en main ne nécessitant aucune compétence informatique
+
+---
+
+Une question ?
+Nous contacter
+
+3.Mobilité
+
+Face au développement accéléré de la mobilité et à l’essor des nouveaux modes de travail, vous êtes confrontés à de nouveaux défis. Co-construisez vos projets de mobilité et déployez une flotte mobile fiable, sécurisée et riche en applications, en France et à l’international, en 4G et en 5G, accompagné par un opérateur et fournisseur de services de confiance.
+
+---
+
+Forfait & Connectivité
+Communiquez en France et à l'étranger avec les forfaits et solutions adaptés
+Couverture Indoor Mobile
+Bénéficier du réseau mobile 4G et 5G d'Orange sur l'ensemble de vos sites
+La connectivité 4G et 5G d'Orange là où vous en avez besoin
+Un catalogue de solutions techniques complet
+Des experts qui s'adaptent à vos besoins de connectivité et à la configuration de vos locaux
+Teaming Mobile
+Placer le mobile au cœur de votre activité sans perdre la richesse des fonctionnalités de la téléphonie d'entreprise.
+Flexibilité et Mobilité : Réussir la transition de la substituion de téléphonie fixe par le mobile en conservant les fonctionnalités avancées de téléphonie d’entreprise.
+Qualité de Voix Supérieure : Profiter d'une qualité de voix optimale grace au réseau mobile et bénéficier des technologies VoLTE et VoWIFI.
+Administration Centralisée : Simplifier la gestion de votre solution avec un portail digital disponible en 24/7
+Performance Entreprises
+Rester connecté à vos clients en France et à l'international, et se projeter dans de nouveaux usages avec la 5G
+Communiquez simplement en France et en Europe
+Adaptez vos forfaits à vos profils de consommation
+Développez de nouveaux usages avec la 5G
+Pass data 7 jours
+Permettre aux collaborateurs de rester connectés et productifs partout dans le monde.
+Permettez à vos collaborateurs nomades de rester connectés et productifs partout dans le monde
+Bénéficiez d'un supplément de data pour permettre une continuité dans vos usages
+Adaptez les besoins de connection de vos collaborateurs en fonction de leurs usages
+Voyage à l'étranger
+Développer votre activité à l’international en accompagnant les gestionnaires de flotte mobile et leurs collaborateurs qui se déplacent à l'étranger.
+Adaptez les besoins en connectivité de vos collaborateurs en fonction de leurs déplacements professionnels à l'étranger
+Communiquez et travaillez sereinement partout où vous en avez besoin
+Optez pour des solutions mobiles agiles et efficaces tout en maîtrisant votre budget
+Wifi Guest
+Une solution de portail captif wifi pour les usages voix et données de vos salariés, visiteurs ou objets connectés
+Découvrez une solution de portail captif wifi personnalisable et managée pour votre entreprise et vos espaces accueillant du public
+Bénéficiez d'une solution en phase avec les obligations réglementaires
+Définissez et mettez en œuvre avec nos experts une solution adaptée à vos besoins de connectivité et à la configuration de vos locaux
+Mobile Private Networks
+Bénéficier d’une solution de réseau mobile privé adaptée à vos besoins
+Adaptez vos réseaux d’exploitation aux nouveaux enjeux de l’industrie
+Bénéficiez d'une large gamme de solutions Mobile Private Networks pour répondre à vos différents types de besoins
+Profitez de l'expertise et de l'accompagnement d'Orange Business en tant qu'opérateur et intégrateur
+Les Ajustables Roaming
+Faciliter les usages voix et data de vos collaborateurs en déplacement à l'étranger
+Permettre aux collaborateurs qui voyagent régulièrement à l'étranger, des usages voix et data mobile en toute sérénité
+Maîtrisez votre budget en n'étant facturé qu'à partir de votre premier appel ou de votre premier usage data
+Bénéficiez d'une large couverture grâce aux larges zones géographiques dédiées
+Répondeur Premium
+Un répondeur professionnel à votre image pour l’ensemble de votre flotte mobile
+Personnalisez la messagerie vocale de votre entreprise pour valoriser votre image de marque
+Bénéficiez d'un studio d'enregistrement professionnel pour garantir des messages de qualité
+Communiquez avec vos clients sur vos différents événements, vos nouveaux produits et services
+Business Everywhere
+Une connexion Internet où que vous soyez pour retrouver votre environnement de travail à tout moment et gagner en productivité.
+Connectez-vous à Internet où que vous soyez et retrouvez à tout moment votre environnement de travail
+Profitez de forfaits Internet mobiles simples et adaptés à vos usages pour vos déplacements en France et depuis l'Europe
+Bénéficiez de services inclus et d'un accompagnement Orange Expert
+Team Connect
+Bénéficier d'une solution de communication de groupe instantanée, sans réseau à déployer et opérationnelle même en cas de réseau saturé.
+Disposez d'une solution de communication de groupe instantanée fiable et sécurisée grâce aux réseaux 4G / 5G d'Orange
+Bénéficiez d'un service de Push-to-X pour tous vos usages critiques
+Maîtrisez la solution de bout en bout grâce à la double casquette opérateur / intégrateur d'Orange
+Gestion de flotte
+Pilotez, renouvelez et sécurisez votre flotte mobile
+Cyberfiltre
+Protéger les données des utilisateurs de votre flotte mobile des cyberattaques grâce à des outils en ligne simples et intuitifs.
+Protégez vos terminaux mobiles des principales menaces cyber
+Consultez l’état des données de votre flotte mobile à distance, depuis un tableau de bord
+Gérez le service à tout moment grâce à des outils digitaux simples
+Nos smartphones
+Une large sélection de mobiles et tablettes pour répondre aux besoins de tous les utilisateurs de votre flotte mobile, avec des solutions de location, de reprise et de gestion.
+Orange Business propose une large gamme de terminaux sélectionnés pour leur fiabilité et leur performance.
+Bénéficiez de solutions de financement flexibles, incluant la location pour étaler vos dépenses.
+Adoptez une démarche éco-responsable avec nos terminaux reconditionnés et notre service de reprise.
+Nos accessoires
+4 familles d'accessoires : protection, charge, audio, voyage & RSE
+Protection : des accessoires pour protéger les smartphones des chocs, rayures et dommages.
+Charge : des solutions de charge efficaces et sécurisées pour maintenir les appareils alimentés.
+Audio, voyage, mode et RSE : des accessoires de haute qualité pour une expérience optimale.
+Circular Mobility
+Une offre qui intègre équipement, connectivité et services pour réduire l'empreinte carbone des flottes de mobiles et dont la méthode de calcul a été validée par AFNOR Certification.
+Bénéficiez des technologies les plus récentes et les plus performantes, tout en adoptant un mode de consommation plus éco-responsable.
+Lissez vos investissements dans le temps et préservez votre trésorerie.
+Diminuez l’empreinte carbone de votre flotte mobile.
+L'Assurance
+Protéger vos smartphones, tablettes et montres connectées contre la casse, l'oxydation, le vol la panne et la défaillance de la batterie. Cette offre est valable pour tous les équipements utilisés sur votre ligne.
+Bénéficiez d'une couverture optimale pour tous vos équipements
+Remplacez votre équipement en 24h en cas de sinistre
+Adaptez le tarif de votre formule à la valeur de votre équipement
+Device Management Express
+Orange Business propose Device Management Express, un portail sécurisé pour le déploiement, la gestion et la sécurisation de votre flotte de terminaux mobiles.
+Visualisez l'inventaire détaillé de la flotte de votre entreprise
+Déployez à distance des profils individuels ou groupés afin de permettre aux collaborateurs de disposer d’un environnement de travail mobile adapté.
+Contrôlez l’accès aux données sensibles de l’entreprise et réagissez rapidement en cas de vol ou de perte d’un terminal mobile
+Services d’accompagnement mobile
+Optimisez vos projets de mobilité
+Choisissez la solution qui correspond à vos besoins
+Gardez la maîtrise de votre budget
+Libérez du temps pour ce qui compte pour votre entreprise
+Mobile Leasing
+Equipez vos collaborateurs de mobiles performants avec la location
+Une maîtrise de vos coûts et une préservation de votre trésorerie
+Une solution clé en main avec un accompagnement de bout en bout
+Une contribution à l'atteinte de vos objectifs RSE
+Applications Mobile
+Gagnez en efficacité et digitaliser vos processus métiers
+Orange Téléphone Pro
+Améliorer votre relation client et respecter la vie privée de vos collaborateurs en leur permettant de présenter le numéro de l’entreprise depuis leur mobile.
+Améliorez le taux de décroché des appels
+Renforcez l'image de marque de votre entreprise
+Protégez la vie privée de vos collaborateurs
+Pack ID
+S’identifier avec le "sans contact mobile" de votre smartphone
+Transformez vos mobiles en pass multi-usages sans contact
+Fluidifiez et facilitez vos parcours utilisateurs
+Renforcez votre sécurité
+Orange Business Lounge
+Le complément indispensable pour piloter votre flotte mobile.
+Améliorez l'efficacité de vos collaborateurs
+Donnez la possibilité à vos collaborateurs de maîtriser leurs consommations
+Déléguez pour gagner du temps dans la gestion de votre flotte mobile
+Mobile Business Apps
+Développer votre activité et votre relation client en digitalisant les processus métier
+Accédez à une sélection d'applications métiers adaptée à chaque besoin
+Digitalisez et partagez vos documents
+Optimisez votre efficacité commerciale et vos interventions
+Applications Ecodesign
+Evaluez la performance environnementale de vos applications et engagez-vous dans une démarche d’écoconception
+Mesurez l’impact environnemental de vos applications grâce à nos experts certifiés Green IT nos solutions opérationnelles
+Réduisez l’impact environnemental de vos services numériques
+Bénéficiez d’applications plus légères, sobres et compatibles avec un plus grand nombre de terminaux
+Accompagnement
+Assurez une gestion optimale de votre flotte mobile
+Test Mobile Apps
+Garantissez des applications mobiles 100% compatibles avec les terminaux de vos clients
+Testez en 7 jours votre application sur un parc mobile complet
+Déployez rapidement des applications fiables sur les stores
+Bénéficiez de l'accompagnement bout-en-bout des experts mobile d'Orange
+
+---
+
+Une question ?
+Nous contacter
+
+4.Collaboration & Télétravail
+
+Le conseil, l’intégration, l’exécution sont les éléments déterminants d’une transformation digitale réussie. Avec l'accompagnement d'Orange Business, assurez la bonne conduite de chaque phase majeure de vos projets d'innovation numérique, de la définition de votre stratégie à la gestion de votre écosystème.
+
+---
+
+Visioconférence
+Rassemblez vos collaborateurs et votre audience à travers le monde
+Event conferencing
+Faites vivre les moments clés de votre entreprise en distanciel
+Déléguez la logistique et concentrez-vous sur les messages
+Réunissez jusqu'à 20 000 participants, partout et sur tous terminaux
+Personnalisez vos formats de diffusion et vos animations
+Collaboration
+Transformez vos méthodes de travail grâce aux outils collaboratifs et canaux unifiés
+Rainbow
+Connectez-vous et partagez instantanément avec votre réseau professionnel
+Une solution de collaboration complète connectée sur votre PABX
+Un portail unique pour gérer votre téléphonie et vos services collaboratifs
+Une architecture ouverte pour échanger avec vos contacts externes
+Live Intelligence
+Optimiser l’efficacité opérationnelle des équipes avec l’IA générative
+Optimisez la gestion et l'occupation de vos salles et espaces de travail
+Simplifiez le quotidien de vos salariés avec des services mobiles
+Déployez la plateforme dans votre organisation
+Workplace Together Essentials
+Explorez un nouveau monde de collaboration pour les PME, travaillez facilement de n'importe où et à tout moment
+Avec Webex, boostez votre productivité au bureau ou en déplacement
+Bénéficiez d’un accompagnement sur mesure pour chaque étape de votre projet
+Gérez votre solution en ligne depuis des espaces personnalisés et sécurisés
+Working Together Smoothie
+Donnez-vous les moyens de gagner en productivité grâce au Programme d'Adoption d'Orange
+Améliorez votre efficacité au travail grâce aux nouveaux outils de collaboration et services d'accompagnement
+Suivez la transformation de vos méthodes de travail par rapport à vos objectifs
+Renforcez la compétence et la réactivité de votre Direction Informatique avec un expert Microsoft 365 dédié
+Business Together Communications
+Bénéficier d'une solution de communication sur mesure en mode intégré, hébergé ou hybride.
+Unifiez vos outils de communication et de collaboration
+Bénéficiez d'une solution sur mesure selon vos besoins
+Disposez d'une solution collaborative intégrée ou hébergée
+Working Together Flash
+Votre Microsoft 365 en plus souple, plus réactif et plus pointu
+Soyez plus réactif grâce à notre expert technique dédié à votre environnement
+Adaptez en temps réel votre tenant 365 via l'espace de gestion en ligne Orange
+Gagnez sur le temps de support aux utilisateurs grâce aux formations incluses
+Collaborative Process Automation
+Simplifier et fluidifier vos processus métier et l'accès à l'information
+Sécurisez et rationnalisez le patrimoine informationnel et documentaire de votre entreprise et assurez la conformité aux exigences réglementaires
+Repensez vos processus métier pour piloter votre activité et optimiser la performance
+Rationaliser vos usages et exploiter le potentiel de votre suite collaborative Microsoft
+Flexible 365
+Créer et adopter l'environnement
+Microsoft 365 adapté à vos besoins
+Profitez d’un catalogue de services ajustables selon vos besoins métiers
+Créez et configurez votre environnement de travail Microsoft
+Bénéficiez d'un accompagnement personnalisé
+Employee Engagement
+Faciliter le quotidien de vos collaborateurs tout en améliorant leur efficacité. Vos équipes sont satisfaites, soudées et performantes.
+Automatisez tous vos processus RH
+Renforcez la cohésion de vos équipes grâce à un portail intranet
+Optimisez toute votre communication interne
+Extended Workplace
+Boostez votre productivité métier avec nos solutions expertes
+Renforcer l’efficacité, l’excellence et la motivation des collaborateurs de bureau
+Améliorer la productivité, la sécurité et le pilotage des équipes de terrain​
+Optimisez la gestion administrative et l’usage de votre parc immobilier
+Facilities Now
+L’application mobile qui facilite le quotidien de vos salariés.
+Optimisez la gestion et l'occupation de vos salles et espaces de travail
+Simplifiez le quotidien de vos salariés avec des services mobiles
+Déployez la plateforme dans votre organisation
+Workplace Together [Webex]
+Les outils de téléphonie et de collaboration Cisco, gérés par Orange
+Migrer vos outils de collaboration vers le Cloud à votre rythme avec Orange
+Engagez vos collaborateurs en proposant un univers de travail hybride
+Créez une nouvelle intimité avec vos clients en toute sécurité
+Working Together Ready
+Travaillez, communiquez et partagez librement où que vous soyez​
+Avec Google Workspace et Microsoft 365, travaillez et collaborez aussi efficacement en mobilité qu’au bureau
+Bénéficiez d’un accompagnement personnalisé sur l’ensemble de votre projet
+Collaborez dans un réseau performant, sécurisé, aux coûts maîtrisés
+Postes de travail virtuels
+Équipez votre entreprise pour le travail à distance
+Virtualisation des postes de travail
+Facilitez l'accès de vos collaborateurs aux données en toute sécurité, quel que soit leur terminal.
+Renforcez la productivité et l'efficacité opérationnelle de vos collaborateurs
+Réagissez à des imprévus tels que des grèves ou des crises sanitaires
+Simplifiez la gestion de vos postes de travail
+Poste de travail virtualisé
+Donnez à vos collaborateurs l’autonomie nécessaire à leurs besoins
+Un tableau de bord permet de suivre en temps réel la qualité du service et d'anticiper les incidents.
+Ce service évolutif, géré par nos équipes, garantit à vos collaborateurs une expérience utilisateur optimale, où qu'ils soient
+Vous offrez à vos collaborateurs un environnement de travail unique qui booste leur autonomie, leur mobilité, leur performance et leur satisfaction.
+Prestation d'intégration cloud
+Services d’intégration cloud complets, de l’identification des besoins, à la conception et à la mise en œuvre
+Profitez d'experts disposants des plus hauts niveaux de certification
+Notre veille technologique vous garantit l’intégration des dernières innovations
+Nous assurons le transfert de compétences et services de support
+
+---
+
+5.Sécurité
+
+Protégez vos données d'entreprise et vos réseaux informatiques partout dans le monde. Leader européen des services de cybersécurité, Orange vous accompagne sur tout le cycle de vie de la menace pour anticiper, détecter et neutraliser les attaques.
+
+---
+
+Anticiper
+Anticipez les dernières menaces
+Managed Vulnerability Intelligence
+Prévenir et détecter les failles dans l'infrastructure de votre SI
+Détectez et remédiez à vos vulnérabilités
+Obtenez une vue globale sur votre SI et sa sécurité
+Bénéficiez de l'accompagnement de nos experts pour mettre en place les actions de prévention et de correction
+Identifier
+Identifiez vos biens et données critiques, préparez votre stratégie de sécurité et assurez-vous de son bon fonctionnement​
+Cyberdefense Consulting & Audit
+Une expertise personnalisée pour évaluer et renforcer la politique de sécurité de votre entreprise
+Évaluez votre posture de sécurité avec des tests d'intrusion, des audits de conformité et des évaluations de risques
+Améliorez la gestion opérationnelle et réglementaire de votre sécurité en continu
+Bénéficiez d'un accompagnement sur mesure de nos experts pour répondre aux défis de sécurité les plus complexes
+Cyber Diagnostic
+Identifier votre niveau d'exposition aux risques cyber
+Bénéficiez d'un diagnostic complet pour une vue globale de votre niveau de sécurité
+Identifiez les failles éventuelles dans votre infrastructure informatique et obtenez des recommandations pour les corriger
+Recevez un plan d'action adapté à vos besoins par nos experts certifiés
+Cyberdefense Education
+Formez vos utilisateurs et vos experts à la cybersécurité
+Explorez l'un des catalogues de formation les plus complets du marché
+Adaptez votre parcours éducatif à vos besoins métiers
+Bénéficiez de formations certifiantes et d'expertises éprouvées
+Protéger
+Déployez la technologie appropriée pour défendre votre organisation et la gérer en permanence
+Live Identity - Captcha
+Renforcez la sécurité de vos services en ligne grâce à une solution souveraine de détection d’activités suspectes
+Des tests CAPTCHA anti-robots malveillants
+Une solution 100% française, conforme au RGPD et aux recommandations de la CNIL
+Un parcours utilisateur sécurisé en toute fluidité
+SafetyCase
+Assurez une communication fluide en situation de crise avec SafetyCase d'Orange : une solution télécom compacte et autonome offrant une connectivité Wi-Fi sécurisée et un internet haut débit, déployable en 30 minutes.
+Déployer une bulle de connectivité Wi-Fi sécurisée en 30 minutes
+Assurer la communication pendant les crises avec un équipement télécom autonome
+S'intégrer facilement dans les Plans de Continuité d'Activité et les Plans Communaux de Sauvegarde
+Email Protection
+Protéger votre messagerie d'entreprise des attaques ciblées
+Bénéficiez d'une solution de protection complète contre tous les types d'attaques de messagerie
+Sécurisez l'échange des données au travers de mécanismes de détection et de chiffrements avancés
+Utilisez une solution de sécurisation simple, ergonomique tout en maîtrisant votre budget
+Flexible Security Platform
+Une solution de protection co-managée et modulable de nouvelle génération pour protéger votre entreprise des cybermenaces.
+Sécurisez votre entreprise face aux cyberattaques grâce une solution de protection dernière génération
+Bénéficiez d'un écosystème complet qui s'adapte aux besoins de votre entreprise ainsi qu'à l'évolution constante des menaces
+Adaptez vos besoins en temps réel à l'aide d'un portail d'administration simple et intuitif
+Mobile Threat Protection
+Gérer et sécuriser votre flotte mobile contre les menaces cyber
+Détectez et éliminez les menaces avancées, connues et inconnues
+Surveillez en temps réel la sécurité de vos terminaux via un portail unique
+Déployez rapidement, exploitez simplement
+Live Identity - Verify
+Vérifier et fiabiliser les données d’identité de vos clients
+Fiabilité de vos données clients et réduction du risque de fraude
+APIs de contrôle d'identité par les données des opérateurs mobiles, conformes au RGPD
+Parcours utilisateur sécurisé en toute fluidité
+Flexible Identity Authentication
+Renforcez la sécurité des accès de vos utilisateurs grâce à une authentification forte et adaptable
+Architecture éprouvée et chiffrement intégral de vos données
+Large choix de moyens d'authentification pour répondre à tous vos besoins
+De forts engagements de services
+Live Identity
+Sécuriser et simplifier vos parcours clients digitaux
+Protéger vos parcours et gagner la confiance de vos clients
+Optimisez votre engagement client et réduisez vos coûts
+Gamme de solutions 100% souveraine, conforme RGPD et un accompagnement de bout en bout
+Web Protection Suite
+Protégez les applications et sites internet
+Contrôlez vos usages internet et nettoyez votre traffic de navigation
+Naviguez en toute sérénité, partout, sur tout terminal
+Assurez un accès distant sécurisé à vos applications internes
+DDoS Protection
+Préservez votre activité des attaques par déni de service
+Anticipez les attaques grâce à la détection des signaux faibles et réagissez avant qu'elles ne se matérialisent
+Préservez la disponibilité de vos ressources et de votre accès internet
+Bénéficiez de notre expertise, 24h/24 7j/7
+Flexible Applications Access
+Travaillez à distance en toute sécurité
+Connectez-vous simplement, depuis n'importe où
+Communiquez en toute sécurité
+Contrôlez vos accès en temps réel
+Web Application Guardian
+Protégez vos applications et sites Internet
+Bloquez le traffic malveillant avant qu'il ne perturbe votre activité
+Bénéficiez d'une protection efficace et économique via une offre modulaire
+Améliorez la performance en allégeant votre infrastructure de l’ensemble du trafic illégitime sans lien avec votre activité
+Secure Gateway
+Protégez vos données et réseaux d'entreprise grâce à un service global de cybersécurité
+Contrôlez les usages internet
+Protégez votre système d'information contre les menaces
+Assurez le maintien de votre activité
+Détecter & Réagir
+Détectez les menaces et réagissez efficacement en cas d'attaque
+Micro-SOC
+Détecter proactivement toutes vos menaces pour protéger vos postes de travail et serveurs
+Bénéficiez d'une détection continue et informée, grâce à notre renseignement sur la menace
+Bloquez immédiatement la menace sans perturber votre organisation
+Renforcez votre système d'information et votre posture de sécurité globale grâce aux enquêtes post-attaques
+Malware Cleaner
+Protégez vos périphériques USB des malwares
+Bénéficiez de 8 anti-virus intégrés à la solution
+Surveillez et paramétrez votre protection via votre console centralisée
+Sensibilisez vos employés via des kiosques ludiques
+Incident Response
+Détecter les incidents menaçant votre activité. Mettre en place des mesure pour investiguer et renforcer votre sécurité
+Détectez et contrez efficacement les cyberattaques
+Obtenez une intervention rapide et efficace de nos experts
+Bénéficiez d'un accompagnement dédié pour analyser vos incidents et éviter les attaques futures
+Security Event Intelligence
+Préservez votre activité en surveillant votre système d'information
+Assurez une surveillance continue pour détecter toute activité suspecte
+Tirez parti de nos analystes pour qualifier les alertes et ne pas perdre de temps sur les faux positifs
+Bénéficiez de recommandations concrètes pour neutraliser les cyberattaques réelles
+
+---
+
+6.Cloud
+
+Adoptez la meilleure stratégie cloud (privé, public, hybride, SaaS, PaaS), socle de votre transformation digitale, accompagné par un acteur de confiance, pour protéger vos données et accélérer votre création de valeur.
+
+---
+
+Infrastructures
+Améliorez la performance de vos infrastructures IT avec des solutions IaaS : cloud privé, public, hybride ou multicloud
+Cloud computing
+Accélérez votre transformation vers le cloud avec nos solutions IaaS
+Un cloud public, privé ou hybride adapté à vos enjeux métiers
+Réduisez votre time to market avec un SI agile, optimisé, sécurisé
+Maîtrisez vos budgets IT avec le paiement à l'usage
+Cloud computing
+Accélérez votre transformation vers le cloud avec nos solutions IaaS
+Un cloud public, privé ou hybride adapté à vos enjeux métiers
+Réduisez votre time to market avec un SI agile, optimisé, sécurisé
+Maîtrisez vos budgets IT avec le paiement à l'usage
+Colocation
+Colocation dans des datacenters hautement sécurisés en France et à l’International
+Accompagnement des clients en France et à l'international avec des solutions d'hébergement adaptées aux normes locales
+Construction et exploitation de datacenters par Orange pour des solutions souveraines, indépendantes et sécurisées
+Hébergement des données dans des datacenters neutres, permettant l'accueil d'autres opérateurs réseaux
+Cloud privé et hybride
+Nos solutions de cloud privé et hybride pour facilité votre transformation numérique.
+Nous construisons des architectures hyper-convergées vous permettant de supporter tout type d’application
+Nous pouvons mettre en place sur des infrastructures dédiées des protections contre les désastres et la perte des données
+Nos services d’infogérance associés à des infrastructures hautement disponibles garantissent la résilience, l’élasticité.
+Cloud Avenue
+Cloud Avenue : prendre la voie rapide vers le cloud
+Cloud Avenue vous offre la possibilité de faire du cloud privé et mutualisé
+Solution basée sur la technologie VMware, la compatibilité est donc assurée avec tout votre applicatif VMware on-premise
+Bénéficiez d’une migration accélérée de vos applications grâce à l’approche « Lift and Shift »
+Nom de domaine
+Enregistrez votre nom de domaine avec Orange Business
+Des outils de gestion inclus dans votre offre
+Des serveurs supervisés en permanence et des procédures certifiées par des experts
+Des protections efficaces contre les risques de piratage
+Réseau
+Assurez un accès fiable et sécurisé à votre cloud
+Business VPN Galerie
+Vous connecter au cloud en toute sécurité depuis votre réseau privé d'entreprise, sans passer par Internet
+Bénéficiez d'une connexion managée, entièrement gérée par Orange
+Soyez assuré de l'étanchéité de bout en bout de vos flux grâce au VPN
+Utilisez une connexion redondée, supervisée proactivement 24/7
+On-demand Cloud Connect
+Créez et managez vos connexions vers le Cloud en toute autonomie
+Profitez d’un accès natif et haute disponibilité aux leaders du cloud
+Bénéficiez de connecteurs cloud dédiés, reliés au meilleur des réseaux Orange Business
+Produisez et configurez vos connexions en tout autonomie
+Infogérance
+Déléguez la gestion de vos infrastructures et applications cloud pour garantir leurs performances
+Gamme Services Managés Cloud
+Disposez d'infrastructures cloud et d'applications toujours disponibles
+Libérez vos équipes IT pour innover et réussir vos projets
+Soyez accompagné par des experts, de la migration à l'exploitation
+Optimisez vos budgets IT
+Protection d'activité
+Assurez votre reprise d’activité (PRA, PCA) pour garantir la résilience de votre entreprise.
+Gamme protection d'activité cloud
+Garantissez votre activité en toute circonstance dans le cloud
+Récupérez rapidement vos données pour une reprise d'activité sans impact
+Conservez ou déléguez le pilotage de votre protection
+Optimisez vos coûts en sécurisant chaque application au niveau adapté
+Protection d’activité dans le cloud
+Garantir la continuité de votre activité
+Synchronisez vos données d'entreprise en toute sécurité
+Partagez vos données d'entreprise en toute sécurité
+Sauvegardez vos données d'entreprise en toute sécurité
+Sauvegarde et synchronisation
+Nos solutions Cloud – Protection d’activité
+Sauvegardez vos données sur le cloud
+Basculez automatiquement en cas de reprise
+Garantissez votre continuité d’activité
+Accompagnement
+Bénéficiez des conseils et de l'accompagnement de nos experts pour réussir votre transformation vers le cloud
+Services Cloud
+Des services professionnels et managés sur le cloud
+Profitez d'une expertise dédiée pour optimiser votre transition vers le cloud.
+Bénéficiez d'un hébergement fiable et conforme aux normes françaises.
+Réduisez vos dépenses tout en maximisant l'efficacité de vos ressources cloud.
+
+---
+
+7.Relation client
+
+Enrichissez votre expérience client avec un parcours simple, des services personnalisés et une connaissance accrue de vos consommateurs, et convertissez vos utilisateurs en vos meilleurs ambassadeurs de marque.
+
+---
+
+Centres de contacts
+Boostez la performance de votre relation client avec un centre de contacts sur-mesure
+Integrated Contact Center
+Gérez facilement vos interactions client sur tous vos canaux
+Optimisez l’expérience client en intégrant tous vos canaux de communication
+Simplifiez la gestion des interactions grâce à une interface ergonomique
+Révolutionnez votre relation client avec une solution omnicanale et intuitive
+Agent Augmenté
+Grâce à l'Intelligence Artificielle, renforcez les capacités et outils de vos agents : résumé de conversation, aide à la recherche d'informations, traduction simultanée
+Offrez à vos agents une assistance temps réel.
+Automatisez les tâches répétitives de vos agents.
+Soutenez vos agents dans la personnalisation de l'expérience client.
+Unified Engagement Suite - NICE
+Découvrez notre plateforme cloud dédiée à l'expérience client combinant des fonctionnalités omnicanales, d'analyse et d'automatisation
+Transmettez les demandes de vos clients au destinataire souhaité, et ce, quel que soit le canal de communication
+Optimisez vos effectifs pour améliorer l'engagement et la productivité de votre équipe
+Obtenez des informations utiles sur l'identité de vos clients grâce à des outils d'analyse puissants
+Unified Engagement Suite - Genesys
+Transformez votre relation client grâce à un centre de contact cloud omnicanal (voix, chat, e-mails et réseaux sociaux) personnalisé, déployé et géré par Orange Business.
+Orchestrez l'ensemble du parcours client en une seule conversation
+Mettez en place un centre de contact personnalisable en évolution constante
+Bénéficiez de la technologie CRM leader du marché de Genesys
+Contact 365
+Un centre de contact collaboratif pour une expérience client enrichie
+Augmenter la performance de vos agents grâce à une interface intégrée nativement dans Microsoft Teams
+Contextualisez les réponses apportées à vos clients
+Automatisez certaines tâches grâce à la powerplateforme
+Flexible Contact Center
+Faciliter vos interactions clients grâce à une solution complète et 100% cloud souverain qui s'adapte aux besoins de votre entreprise
+Bénéficiez d'une solution centre de contacts 100 % cloud, made in France
+Profitez d'une solution évolutive et innovante
+Profitez du conseil d'Orange Business et d'un centre de contacts en moins de 72 heures
+Accueil téléphonique
+Proposez à votre client un contact vocal efficace
+Numéros Contact Essentiel
+Une solution simple d’accueil téléphonique qui s’ajuste au volume d’appels de votre activité
+Modifiez en totale autonomie le débit de votre accès internet selon les besoins de votre entreprise
+Profitez d'un accès internet mobile performant avec la connexion haut débit de votre choix
+Bénéficiez de nombreuses options et d'un engagement de service de qualité notamment avec une garantie de temps de rétablissement en moins de 10 h
+Contact Center Access
+Collectez des appels partout dans le monde et gérez-les en temps réel
+Offrez une expérience client fluide et une accessibilité mondiale grâce à des numéros locaux et gratuits disponibles dans plus de 160 pays.
+Maîtrisez le routage des appels, l’attribution de nouveaux numéros et le suivi des performances en temps réel via un portail en ligne ou une API.
+Réduisez vos coûts avec une solution tout-en-un, évolutive selon vos besoins, soutenue par l’infrastructure mondiale puissante d'Orange Business.
+Guide Vocal
+Optimiser votre accueil téléphonique avec un Serveur Vocal Interactif
+Automatisez et personnalisez votre accueil téléphonique
+Gérez votre solution 100% cloud de manière autonome
+Optimisez votre relation client grâce aux statistiques avancées
+Gamme Numéros Contact
+Des numéros professionnels pour rester toujours joignable pour vos clients et vos prospects
+Modifiez en totale autonomie le débit de votre accès Internet selon les besoins de votre entreprise
+Profitez d'un accès internet mobile performant avec la connexion haut débit de votre choix
+Bénéficiez de nombreuses options et d'un engagement de service de qualité notamment avec une garantie de temps de rétablissement en moins de 10 h
+Numéros Contact IP
+Des numéros professionnels pour optimiser votre relation client ou monétiser certains de vos services
+Profitez d’un numéro professionnel et facilement identifiable
+Gérez votre accueil téléphonique en toute autonomie, 24h/24
+Profitez d'une rémunération garantie sur vos appels reçus
+Numéro Vert International et Numéro Vert Universel
+Des numéros d'appel gratuits pour garder le contact avec vos clients, prospects et collaborateurs depuis de nombreux pays
+Proposez des numéros gratuits à vos clients, prospects et collaborateurs dont les appels proviennent de l'international
+Sélectionnez un format de numéro adapté à votre stratégie d'entreprise
+Gérez votre accueil téléphonique en toute autonomie, 24h/24
+Managed Voice Portal
+Personnalisez votre accueil téléphonique avec un Serveur Vocal Interactif
+Gagnez en satisfaction client avec un accueil fluide et personnalisé
+Gérez vos appels avec efficacité
+Concentrez vos agents sur la gestion des appels complexes
+Contact Center Access
+Bénéficiez d'un accueil téléphonique sans frontière et sur mesure
+Bénéficiez d'un accueil téléphonique sans frontière et sur mesure des entreprises.
+Disponibilité mondiale et forte modularité
+Dimensionnez votre service pour une stratégie de coûts optimale
+Digitale
+Digitalisez votre parcours client pour une expérience utilisateur optimale
+CRM Service Suite
+Optimiser la gestion de vos contacts via une relation client personnalisée
+Optimisez la gestion de vos contacts via une relation client personnalisée
+Pilotez et boostez votre performance commerciale
+Explorez et intégrez une solution adaptée à vos besoins
+Unified Commerce
+Exploitez toute la puissance du digital pour transformer votre activité commerciale
+Digitalisez votre chaîne de vente pour accélérer votre business B2B
+Analysez, personnalisez, fidélisez en exploitant les données
+Soyez accompagné de bout en bout pour concevoir une solution sur-mesure
+Affichage Interactif
+Dynamisez votre communication grâce aux écrans numériques
+Diffusez vos contenus visuels rapidement et en tout lieu stratégique
+Ciblez vos messages avec une analyse en temps réel de l'audience de vos écrans
+Optimisez votre communication et renforcez votre image
+Digital Applications Development
+Accélérez votre transformation digitale et boostez votre business avec le développement d'applications sur-mesure
+Co-construisez et intégrez vos portails web et vos applications
+Délivrez une expérience client personnalisée et optimisée
+Assurez la réussite de votre projet digital grâce au savoir-faire d'Orange
+Mon Portail Associatif
+Gérez votre structure associative et votre espace adhérent pour une communication optimisée
+Coordonnez vos instances décentralisées
+Administrez et animez avec fluidité
+Adoptez une plateforme modulaire et flexible
+Sport and Live Event
+Digitalisez l'accueil et enrichissez le parcours de vos spectateurs
+Sécurisez et fluidifiez vos accès sur site
+Numérisez votre billetterie
+Améliorez la connaissance de votre public
+Contact Everyone
+Communiquez instantanément avec tous vos clients
+Diffusez à tous, en quelques clics, via les canaux de votre choix
+Gérez en toute simplicité via une interface intuitive et automatisée
+Optimisez vos relations clients grâce à une solution française fiable à 100%
+Le Guichet
+Facilitez les démarches en ligne des usagers de votre collectivité
+Assurez une vue unifiée de toutes les demandes de vos usagers
+Accompagnez les nouveaux usages des citoyens via la dématérialisation
+Simplifiez les échanges usager-agent pour un traitement accéléré
+LivePayment
+Encaisser vos clients plus rapidement et en toute sécurité.
+Fluidifiez vos encaissements grâce à une solution modulaire et sécurisée
+Adaptez votre solution de paiment à vos besoins
+Bénéficiez de l'expertise et de l'accompagnement d'Orange Business tout au long de votre projet
+Pilotage de la performance
+Bénéficiez des conseils et suivis d'Orange pour maximiser votre satisfaction client
+Contacts Analytics
+Optimisez votre Expérience Client avec l'analyse des interactions avec vos clients
+Optimisez votre centre d'appels
+Améliorer votre relation client
+Accroître la performance de vos ressources
+Workforce Engagement Suite
+Une gamme complète de solutions pour optimiser le travail et la formation de vos agents, améliorer les process de votre service client et analyser les interactions et émotions.
+Optimiser votre centre de contacts
+Améliorer votre relation client
+Accroître la performance de vos ressources
+Automatic Quality Monitoring
+Monitoring complet en temps réel de vos interactions clients
+Surveillez et évaluez chaque interaction client pour garantir la qualité des échanges.
+Optimisez la performance de vos agents avec des formations personnalisées et un suivi régulier.
+Identifiez les axes d'amélioration grâce à l'analyse des conversations et des données clients.
+Enregistrement Multicanal (Recording)
+Enregistrez, analysez et optimisez vos interactions clients en toute sécurité
+Enregistrez et sécurisez les interactions avec vos clients en respectant les réglementations en vigueur.
+Analysez les enregistrements pour identifier les bonnes pratiques et ajuster les réponses.
+Utilisez les données des enregistrements pour affiner la gestion des équipes et améliorer l'efficacité opérationnelle.
+Workforce Management
+Simplifiez la gestion et l'optimisation de vos équipes
+Optimiser la planification en ajustant les plannings en temps réel selon les volumes d’activité pour une répartition efficace des équipes.
+Suivre et améliorer les performances des agents grâce à des tableaux de bord et des rapports détaillés.
+Améliorer l’expérience client en renforçant la résolution au premier contact et en optimisant la qualité du service.
+
+---
+
+8.Relation client
+
+Enrichissez votre expérience client avec un parcours simple, des services personnalisés et une connaissance accrue de vos consommateurs, et convertissez vos utilisateurs en vos meilleurs ambassadeurs de marque.
+
+---
+
+Centres de contacts
+Boostez la performance de votre relation client avec un centre de contacts sur-mesure
+Integrated Contact Center
+Gérez facilement vos interactions client sur tous vos canaux
+Optimisez l’expérience client en intégrant tous vos canaux de communication
+Simplifiez la gestion des interactions grâce à une interface ergonomique
+Révolutionnez votre relation client avec une solution omnicanale et intuitive
+Agent Augmenté
+Grâce à l'Intelligence Artificielle, renforcez les capacités et outils de vos agents : résumé de conversation, aide à la recherche d'informations, traduction simultanée
+Offrez à vos agents une assistance temps réel.
+Automatisez les tâches répétitives de vos agents.
+Soutenez vos agents dans la personnalisation de l'expérience client.
+Unified Engagement Suite - NICE
+Découvrez notre plateforme cloud dédiée à l'expérience client combinant des fonctionnalités omnicanales, d'analyse et d'automatisation
+Transmettez les demandes de vos clients au destinataire souhaité, et ce, quel que soit le canal de communication
+Optimisez vos effectifs pour améliorer l'engagement et la productivité de votre équipe
+Obtenez des informations utiles sur l'identité de vos clients grâce à des outils d'analyse puissants
+Unified Engagement Suite - Genesys
+Transformez votre relation client grâce à un centre de contact cloud omnicanal (voix, chat, e-mails et réseaux sociaux) personnalisé, déployé et géré par Orange Business.
+Orchestrez l'ensemble du parcours client en une seule conversation
+Mettez en place un centre de contact personnalisable en évolution constante
+Bénéficiez de la technologie CRM leader du marché de Genesys
+Contact 365
+Un centre de contact collaboratif pour une expérience client enrichie
+Augmenter la performance de vos agents grâce à une interface intégrée nativement dans Microsoft Teams
+Contextualisez les réponses apportées à vos clients
+Automatisez certaines tâches grâce à la powerplateforme
+Flexible Contact Center
+Faciliter vos interactions clients grâce à une solution complète et 100% cloud souverain qui s'adapte aux besoins de votre entreprise
+Bénéficiez d'une solution centre de contacts 100 % cloud, made in France
+Profitez d'une solution évolutive et innovante
+Profitez du conseil d'Orange Business et d'un centre de contacts en moins de 72 heures
+Accueil téléphonique
+Proposez à votre client un contact vocal efficace
+Numéros Contact Essentiel
+Une solution simple d’accueil téléphonique qui s’ajuste au volume d’appels de votre activité
+Modifiez en totale autonomie le débit de votre accès internet selon les besoins de votre entreprise
+Profitez d'un accès internet mobile performant avec la connexion haut débit de votre choix
+Bénéficiez de nombreuses options et d'un engagement de service de qualité notamment avec une garantie de temps de rétablissement en moins de 10 h
+Contact Center Access
+Collectez des appels partout dans le monde et gérez-les en temps réel
+Offrez une expérience client fluide et une accessibilité mondiale grâce à des numéros locaux et gratuits disponibles dans plus de 160 pays.
+Maîtrisez le routage des appels, l’attribution de nouveaux numéros et le suivi des performances en temps réel via un portail en ligne ou une API.
+Réduisez vos coûts avec une solution tout-en-un, évolutive selon vos besoins, soutenue par l’infrastructure mondiale puissante d'Orange Business.
+Guide Vocal
+Optimiser votre accueil téléphonique avec un Serveur Vocal Interactif
+Automatisez et personnalisez votre accueil téléphonique
+Gérez votre solution 100% cloud de manière autonome
+Optimisez votre relation client grâce aux statistiques avancées
+Gamme Numéros Contact
+Des numéros professionnels pour rester toujours joignable pour vos clients et vos prospects
+Modifiez en totale autonomie le débit de votre accès Internet selon les besoins de votre entreprise
+Profitez d'un accès internet mobile performant avec la connexion haut débit de votre choix
+Bénéficiez de nombreuses options et d'un engagement de service de qualité notamment avec une garantie de temps de rétablissement en moins de 10 h
+Numéros Contact IP
+Des numéros professionnels pour optimiser votre relation client ou monétiser certains de vos services
+Profitez d’un numéro professionnel et facilement identifiable
+Gérez votre accueil téléphonique en toute autonomie, 24h/24
+Profitez d'une rémunération garantie sur vos appels reçus
+Numéro Vert International et Numéro Vert Universel
+Des numéros d'appel gratuits pour garder le contact avec vos clients, prospects et collaborateurs depuis de nombreux pays
+Proposez des numéros gratuits à vos clients, prospects et collaborateurs dont les appels proviennent de l'international
+Sélectionnez un format de numéro adapté à votre stratégie d'entreprise
+Gérez votre accueil téléphonique en toute autonomie, 24h/24
+Managed Voice Portal
+Personnalisez votre accueil téléphonique avec un Serveur Vocal Interactif
+Gagnez en satisfaction client avec un accueil fluide et personnalisé
+Gérez vos appels avec efficacité
+Concentrez vos agents sur la gestion des appels complexes
+Contact Center Access
+Bénéficiez d'un accueil téléphonique sans frontière et sur mesure
+Bénéficiez d'un accueil téléphonique sans frontière et sur mesure des entreprises.
+Disponibilité mondiale et forte modularité
+Dimensionnez votre service pour une stratégie de coûts optimale
+Digitale
+Digitalisez votre parcours client pour une expérience utilisateur optimale
+CRM Service Suite
+Optimiser la gestion de vos contacts via une relation client personnalisée
+Optimisez la gestion de vos contacts via une relation client personnalisée
+Pilotez et boostez votre performance commerciale
+Explorez et intégrez une solution adaptée à vos besoins
+Unified Commerce
+Exploitez toute la puissance du digital pour transformer votre activité commerciale
+Digitalisez votre chaîne de vente pour accélérer votre business B2B
+Analysez, personnalisez, fidélisez en exploitant les données
+Soyez accompagné de bout en bout pour concevoir une solution sur-mesure
+Affichage Interactif
+Dynamisez votre communication grâce aux écrans numériques
+Diffusez vos contenus visuels rapidement et en tout lieu stratégique
+Ciblez vos messages avec une analyse en temps réel de l'audience de vos écrans
+Optimisez votre communication et renforcez votre image
+Digital Applications Development
+Accélérez votre transformation digitale et boostez votre business avec le développement d'applications sur-mesure
+Co-construisez et intégrez vos portails web et vos applications
+Délivrez une expérience client personnalisée et optimisée
+Assurez la réussite de votre projet digital grâce au savoir-faire d'Orange
+Mon Portail Associatif
+Gérez votre structure associative et votre espace adhérent pour une communication optimisée
+Coordonnez vos instances décentralisées
+Administrez et animez avec fluidité
+Adoptez une plateforme modulaire et flexible
+Sport and Live Event
+Digitalisez l'accueil et enrichissez le parcours de vos spectateurs
+Sécurisez et fluidifiez vos accès sur site
+Numérisez votre billetterie
+Améliorez la connaissance de votre public
+Contact Everyone
+Communiquez instantanément avec tous vos clients
+Diffusez à tous, en quelques clics, via les canaux de votre choix
+Gérez en toute simplicité via une interface intuitive et automatisée
+Optimisez vos relations clients grâce à une solution française fiable à 100%
+Le Guichet
+Facilitez les démarches en ligne des usagers de votre collectivité
+Assurez une vue unifiée de toutes les demandes de vos usagers
+Accompagnez les nouveaux usages des citoyens via la dématérialisation
+Simplifiez les échanges usager-agent pour un traitement accéléré
+LivePayment
+Encaisser vos clients plus rapidement et en toute sécurité.
+Fluidifiez vos encaissements grâce à une solution modulaire et sécurisée
+Adaptez votre solution de paiment à vos besoins
+Bénéficiez de l'expertise et de l'accompagnement d'Orange Business tout au long de votre projet
+Pilotage de la performance
+Bénéficiez des conseils et suivis d'Orange pour maximiser votre satisfaction client
+Contacts Analytics
+Optimisez votre Expérience Client avec l'analyse des interactions avec vos clients
+Optimisez votre centre d'appels
+Améliorer votre relation client
+Accroître la performance de vos ressources
+Workforce Engagement Suite
+Une gamme complète de solutions pour optimiser le travail et la formation de vos agents, améliorer les process de votre service client et analyser les interactions et émotions.
+Optimiser votre centre de contacts
+Améliorer votre relation client
+Accroître la performance de vos ressources
+Automatic Quality Monitoring
+Monitoring complet en temps réel de vos interactions clients
+Surveillez et évaluez chaque interaction client pour garantir la qualité des échanges.
+Optimisez la performance de vos agents avec des formations personnalisées et un suivi régulier.
+Identifiez les axes d'amélioration grâce à l'analyse des conversations et des données clients.
+Enregistrement Multicanal (Recording)
+Enregistrez, analysez et optimisez vos interactions clients en toute sécurité
+Enregistrez et sécurisez les interactions avec vos clients en respectant les réglementations en vigueur.
+Analysez les enregistrements pour identifier les bonnes pratiques et ajuster les réponses.
+Utilisez les données des enregistrements pour affiner la gestion des équipes et améliorer l'efficacité opérationnelle.
+Workforce Management
+Simplifiez la gestion et l'optimisation de vos équipes
+Optimiser la planification en ajustant les plannings en temps réel selon les volumes d’activité pour une répartition efficace des équipes.
+Suivre et améliorer les performances des agents grâce à des tableaux de bord et des rapports détaillés.
+Améliorer l’expérience client en renforçant la résolution au premier contact et en optimisant la qualité du service.
+
+---
+
+9.Data Intelligence & IoT
+
+La data est le carburant du digital, et l'Internet des Objets en débloque l'accès au plus près du terrain et des utilisateurs. Faites dialoguer vos machines, collectez et analysez vos données, pour simplifier la gestion de votre activité et découvrir les usages de demain.
+
+---
+
+Collectez la donnée
+Agrégez et exploitez vos données via un réseau de capteurs sur-mesure
+Smart Operations
+Collecter et analyser les données de tous vos bâtiments, équipements ou infrastructures
+Répondez à vos enjeux et usages métiers grâce à des capteurs adaptés
+Bénéficiez d'une solution sécurisée, robuste et pérenne
+Collectez et analysez vos données terrain en temps réel pour optimiser votre efficacité opérationnelle
+smart tracking
+Identifier et localiser vos assets métiers à tout moment
+Suivez les mouvements et positions de tous vos objets sensibles
+Choisissez la connectivité et les capteurs adaptés à votre besoin
+Recueillez et analysez vos données pour optimiser vos opérations
+Live Button
+Travailler de manière plus sûre et efficace afin de gérer facilement vos solutions connectées.
+Transformez votre parcours utilisateur avec un parc de boutons connectés
+Optimisez la gestion de votre activité en un clic
+Bénéficiez d'une solution simple, esthétique, et adaptable à vos besoins
+Connectez vos objets
+Déployez votre flotte d'objets connectés sur le réseau adapté
+Gamme IoT Connect
+Connecter vos objets avec les réseaux mobiles Orange
+Une connexion fiable et adaptée à votre projet IoT quelle que soit la taille de votre entreprise
+Connecter vos objets avec les réseaux mobiles 2G, 3G, 4G, LTE-M et LoRaWAN®
+Des échanges sécurisés entre vos objets et votre entreprise
+Activez la donnée
+Transformez vos données en information à valeur
+Live Objects
+Boostez votre potentiel IoT avec la plateforme cloud sécurisée d'Orange
+Connectez machines et objets à vos applications métier en toute simplicité
+Une gamme complète de services évoluant avec vos besoins
+Pilotez les opérations et les communications de vos objets
+Flux Vision
+Analyser les flux de population pour adapter au mieux votre activité
+Analysez les déplacements de population et la fréquentation d’un lieu par profil grâce aux données du réseau mobile
+Visualisez en un clic des indicateurs adaptés à vos besoins métiers
+Restez conforme aux normes RGPD et à la CNIL
+Smart Eco-energy
+Mesurer, analyser et optimiser les consommations d'énergie pour maîtriser vos factures et réduire votre impact environnemental.
+Optimisez vos consommations d'énergies et réduisez votre impact carbone
+Détectez les gisements d'économie d'énergies et de fluides et maîtrisez vos factures
+Automatisez des rapports personnalisés selon vos besoins métier
+Computer Vision
+Faites parler vos images pour mieux agir
+Analysez vos flux de vidéos en temps réel, en local ou dans le cloud
+Observez et évaluez ce que vous désirez grâce à des algorithmes sur mesure
+Accélérez vos prises de décision grâce aux indicateurs restitués
+Accompagnement
+Mobilisez votre organisation pour libérer le potentiel de vos données
+Flexible Data
+Transformez vos données en informations utiles
+Faites parler vos données
+Découvrez de nouvelles sources de valeur
+Contrôlez vos flux de production et d'information
+
+---
+
+Une question ?
+Nous contacter
+
+10.Conseil & Transformation
+
+Le conseil, l’intégration, l’exécution sont les éléments déterminants d’une transformation digitale réussie. Avec l'accompagnement d'Orange Business, assurez la bonne conduite de chaque phase majeure de vos projets d'innovation numérique, de la définition de votre stratégie à la gestion de votre écosystème.
+
+---
+
+Intégration & Déploiement
+Sécurisez la livraison, l'implémentation et l'adoption de vos solutions
+Customer Experience Management
+Profitez d'un accompagnement dédié au gestionnaire de votre offre de téléphonie et de collaboration
+Gérez la richesse de votre solution et de son écosystème
+Facilitez l'implémentation, l'adoption, et l'usage de votre solution
+Analysez dans le détail vos usages grâce aux reportings personnalisés
+Pass Projets
+Confier le déploiement ou le déménagement de vos solutions à un Chef de Projet pour plus de sérénité
+Gérer les risques et garantir le respect des délais grâce à un interlocuteur dédié.
+Bénéficier d'un service personnalisé avec la bonne gouvernance et l'organisation locale.
+Bénéficier d'une visibilité en temps réel pour une planification adéquate et une prise de décision plus facile.
+Deployment Services
+Acheter, livrer et installer les composants de votre infrastructure informatique sur tous vos sites à l'international
+Bénéficiez d’un approvisionnement des composants de votre infrastructure informatique aux normes internationales
+Réduisez vos dépenses avec un déploiement efficace sur vos sites et pays
+Bénéficiez d’une approche conforme sur le plan fiscal et exportation
+Supervision Watch
+La performance de votre système d'information optimisée grâce à l'observabilité
+Disposez d’un tableau de bord avec une vue en temps réel sur la performance de vos applications clés
+Gagnez en efficacité opérationnelle grâce à une diminution du temps de résolution des incidents et l’anticipation de problèmes éventuels
+Bénéficiez de l'accompagnement de nos consultants et experts en monitoring
+Déploiement Flotte Mobile
+Faites-vous accompagner dans la mise en place de vos projets de mobilité
+Déléguez la gestion et la complexité de vos projets de mobilité
+Assurez et simplifiez le déploiement de votre flotte
+Soyez accompagné dans l'analyse de vos consommations
+Diagnostic Fibre
+Soyez prêt pour la fibre grâce à un audit complet de vos sites
+Cartographiez vos sites pour préparer les travaux de votre parcours fibre
+Anticipez vos investissements et réduisez les délais de production
+Conduisez votre étude sans engagement d'achat
+Service Accompagnement
+Favorisez l’adoption de vos utilisateurs aux solutions de communications unifiées
+Maximisez l'usage des outils de collaboration
+Disposez d'expertise conseil tout au long de votre projet digital
+Utilisez toutes les fonctionnalités et soyez plus efficaces au quotidien
+Opérations & Gestion
+Assurez la performance opérationnelle de vos solutions
+Multisourcing Service Integration (MSI)
+Gérer de manière centralisée vos services informatiques et Telecom, tous opérateurs confondus.
+Améliorer la qualité de service de tous vos fournisseurs.
+Optimiser l'efficacité opérationnelle grâce à de la visibilité, du contrôle et de la simplication.
+Pouvoir toujours faire appel aux meilleurs fournisseurs, au niveau global ou local.
+Operational Support Services
+Optimiser vos coûts et maximiser la disponibilité de votre SI grâce à des services d'assistance uniformes dans le monde entier
+Gagnez en sérénité et efficacité dans la résolution des incidents sur vos équipements
+Disposez d’un service de maintenance pour tous vos sites dans le monde
+Bénéficiez de la présence locale de nos experts techniques
+Gouvernance Contrats et Services
+Être accompagné par un Contract Manager Orange Business pour piloter et optimiser vos contrats et services.
+Bénéficiez d’une expertise dédiée pour la gestion de vos contrats et services
+Gagnez en visibilité lors des comités de pilotage et financiers
+Accélérez vos prises de décisions grâce à des indicateurs personnalisés
+Service Management Platform Suite
+Digitalisez vos processus de gestion de services internes
+Simplifiez, automatisez et accélérez l'accès à vos services internes
+Disposez d’une vision globale et consolidée de vos services
+Signalez de nouvelles opportunités de services via un portail intuitif
+Service Gestion
+Simplifier la gestion et le suivi de vos contrats voix, communication et collaboration, réseau et data via un interlocuteur dédié à vos côtés et un reporting digital en ligne
+Bénéficiez d'un interlocuteur privilégié à vos côtés pour la gestion de vos contrats télécom
+Gagnez en efficacité sur votre suivi opérationnel et trouvez des solutions grâce à un suivi opérationnel un reporting digital en ligne accessible 24/24 et un numéro SAV unique
+Bénéficiez de recommandations sur la qualité de service
+Applications Facture
+Visualiser vos factures et gérer votre budget télécom
+Gérez vos factures fixe, mobile et réseau en toute autonomie
+Consultez vos reportings ou retraitez vos données selon vos besoins
+Bénéficiez d’applications sécurisées depuis votre Espace Client Entreprise
+Service Client Conseil
+Un accompagnement opérationnel pour piloter la performance de vos solutions IT
+Sécurisez la gestion opérationnelle de vos solutions IT
+Bénéficiez de conseils et recommandations sur l'optimisation de la performance de vos solutions
+Garantissez une qualité de service optimale
+Services EDI
+Automatisez vos échanges de documents via de multiples formats
+Facilitez les transactions B2B avec des messages EDI adaptés à vos besoins métiers.
+Profitez d'une solution robuste et fiable pour le transport de vos informations sensibles.
+Connectez facilement vos systèmes d’information hétérogènes pour une meilleure efficacité opérationnelle.
+Atlas 400
+Votre communication Inter-applications sécurisée
+Facilitez les transactions B2B avec des messages EDI adaptés à vos besoins métiers.
+Profitez d'une solution robuste et fiable pour le transport de vos informations sensibles.
+Connectez facilement vos systèmes d’information hétérogènes pour une meilleure efficacité opérationnelle.
+Transformation IT & Digital
+Adoptez la bonne stratégie pour la conduite de votre transformation digitale
+Cloud Expert Services
+Un accompagnement à chaque étape de votre projet pour maximiser la valeur du cloud
+Libérez du temps pour votre personnel IT
+Optimisez vos coûts informatiques
+Réduisez les risques
+Inventaire Cuivre et Relevé sur Site
+Préparer le changement de technologie en toute sérénité, en bénéficiant d'un accompagnement et d'un inventaire exhaustif de vos accès cuivre.
+Un accompagnement pour préparer le passage du cuivre à la fibre ou à d'autres technologies
+Des prestations permettant d'avoir une vision exhaustive de vos accès cuivre et de leurs usages
+Une aide pour mieux définir les solutions de transformation IP
+Accompagnement & Stratégie
+Déployez des solutions complètes avec un accompagnement bout-en-bout
+Orange Event Solutions
+Des solutions réseaux, mobiles et digitales pour faire de votre évènement une expérience inoubliable
+Live, animation, web app : un catalogue complet de services évènementiels
+Pour tout évènement corporate 100% digital ou hybride
+Un suivi bout-en-bout personnalisé pour créer un moment unique
+
+---
+
+B. Pourquoi nous ?
+
+
+mon réseau local, une solution LAN pour construire un réseau informatique
+  Mon réseau local d'Orange Business, est une solution LAN qui permet aux petites et moyennes entreprises de déployer un réseau local à leur rythme et améliorer la performance de ses collaborateurs avec de nouveaux services et applicatifs. Cette offre propose des solutions de Wi-Fi adaptatif, de sécurité, d'accès visiteurs, de câblage, de commutations, d'onduleurs et des services associés.
+
+
+7 modules LAN indépendants clés en main et sécurisés mon réseau local, la solution LAN packagée Orange Business, s’appuie sur des infrastructures sécurisées. Composées de 7 modules simples à déployer, vous constituez votre réseau local à votre rythme en sélectionnant les modules souhaités, sans remettre en cause votre installation existante.
+
+ 
+
+ 
+
+
+mon WiFi
+Jusqu’à 20 bornes installées dans l’entreprise
+
+---
+
+Les utilisateurs présents sur le site disposent d’un accès au réseau sans fil haut débit, en tout point du réseau.
+
+Mes accès visiteurs
+Jusqu’à 250 connexions simultanées
+
+Les visiteurs et utilisateurs occasionnels accèdent temporairement au réseau Internet de l’entreprise. Ce module est conforme à l’obligation légale de conserver les données de connexion au réseau.
+ 
+
+
+Mon cœur de réseau
+Une gamme de switchs gigabits de 8 à 24 Ports PoE empilables
+
+Les équipements sont raccordés au réseau local de l’entreprise. Les flux d’information sont priorisés. Le transport de la VOIP est assuré.
+ 
+
+
+Mon câblage
+Ethernet standardisé de catégorie 6 avec baie, goulotte et cordon
+
+Les prises sont raccordées au réseau local de l’entreprise pour la transmission de données et le support VoIP. Ce système standardisé permet une intégration simple de la majorité des environnements normalisés
+ 
+
+
+Ma sécurité
+Une gamme de firewall de 4 à 16 ports 10GE fibre 20 Gb/s
+
+---
+
+Les accès sont sécurisés. Le réseau est protégé contre toutes attaques frauduleuses du système d’information et de l’Internet.
+ 
+
+
+Mon onduleur
+Gamme individuel ou serveur
+
+Le réseau local est protégé contre les perturbations du réseau électrique et coupure générale.
+L’accompagnement de nos experts
+Nous vous accompagnons à chaque étape de la vie de votre solution (fourniture, installation, maintenance) et vous garantissons contractuellement le temps d'intervention et de rétablissement. Avec mon réseau local, vous profitez d'une solution construite sur une technologie testée et validée dans le cadre d'un plan qualité, qui s'appuie sur des constructeurs leaders du marché. Vous êtes assuré de la pérennité de votre matériel.
+
+Une sélection des meilleures technologies du marché
+Nos solutions d’Audio et Web Conférence s’adossent aux technologies reconnues de nos partenaires sélectionnés. Avec PGi, nous vous garantissons des réunions téléphoniques d’une qualité audio irréprochable.
+
+---
+
+Avec notre partenaire Cisco, bénéficiez de la qualité du réseau Orange associé à une collaboration enrichie grâce à l’outil Cisco Webex Meetings
+
+
+
+
+
+
+
+ 
+
+Gérer votre solution en ligne
+Avec l’Espace Client Entreprise, votre espace personnalisé et sécurisé, vous gérez au quotidien votre solution Orange Business.
+
+ 
+
+
+Maîtriser votre budget
+
+Consulter et télécharger vos factures et annexes
+Suivre la consommation et maîtriser les usages
+Accéder à des tableaux de bord et des synthèses sur les principaux postes de la facture
+
+Signaler rapidement un dysfonctionnement !
+
+Déclarer simplement un incident en ligne
+Suivre la résolution de votre incident étape par étape et paramétrer vos notifications par email et ou SMS.
+
+1.Qui sommes-nous ?
+
+---
+
+Un partenaire de confiance unique
+Orange Business est l’entité du Groupe Orange dediée aux entreprises et organisations. Notre histoire unique d’opérateur de télécom qui a évolué vers une société de service numérique nous permet d’accompagner les entreprises du monde entier dans leur transformation digitale durable.
+
+L’expérience et la diversité de nos 30 000 collaborateurs, experts des enjeux B2B dans le monde, sont nos plus grands atouts.
+Nous défendons une vision éthique, responsable et inclusive du numérique, tout en aidant les entreprises à réinventer leurs services. C’est ainsi que nous créons un impact positif pour nos clients, nos équipes et la planète.
+
+
+« Notre ambition : devenir l'intégrateur européen réseaux et numérique de référence pour rendre la transformation digitale des entreprises efficace et durable.  »
+Aliette Mousnier-Lompré,
+CEO Orange Business
+
+---
+
+Ce qui nous distingue ?
+La rigueur d’un expert des réseaux et de la connectivité associée à l’agilité d’un intégrateur de solutions numériques mondial. Nous concilions présence globale et approche locale pour vous aider à tirer le meilleur du digital, des réseaux et du cloud en passant par les données et les plateformes de services.
+Une vision éthique, responsable et inclusive du numérique
+La confiance au cœur de notre engagement
+A l’heure où les entreprises accélèrent leur digitalisation, la confiance numérique est clef. Notre rôle consiste à apporter à nos clients toutes les garanties nécessaires à la protection de leurs données en identifiant et maîtrisant les risques éventuels sur toute la chaîne de valeur numérique.
+
+---
+
+Nous vous accompagnons
+Innover pour un avenir durable
+Entreprise du digital, Orange Business s’est donné pour mission de garantir une transformation digitale efficace et durable et s’est engagé à agir pour réduire l'impact environnemental de ses activités, investir dans la souveraineté numérique, et promouvoir l'utilisation éthique des données.
+
+Notre responsabilité sociétale
+Tirer parti de la puissance data et IA
+En tant qu’intégrateur réseaux et numérique, spécialiste data et IA, nous mettons la technologie au service des grands enjeux de notre époque et nous accompagnons vos projets de bout en bout de l'idéation à l'industrialisation, en intégrant les meilleures technologies du marché.
+
+Notre expertise Data et IA
+Une combinaison spécifique d’atouts
+Un intégrateur réseaux et numérique qui comprend toute la chaine de valeur du monde digital
+
+Un ADN d’opérateur, des réseaux et des plateformes
+
+---
+
+Ces spécificités nous positionnent idéalement pour construire et exploiter les infrastructures les plus complexes, et ce partout dans le monde.
+Un large spectre de compétences et un vaste réseau de partenaires
+
+Ces atouts nous confèrent une capacité unique à orchestrer les infrastructures digitales, à la croisée entre la connectivité, le cloud, et la cybersécurité.
+La relation de confiance avec nos clients
+
+Cette relation s’appuie sur notre sens de l’éthique et sur l'engagement de nos collaborateurs. Nous nous engageons à créer durablement de la valeur pour vous et votre activité.
+Une force de frappe unique sur le marché
+1er
+
+réseau voix et données du monde
+
+9 700
+
+Digital experts
+
++70
+
+datacenters cloud sur 5 continents
+
+5
+
+Major Service Centers présents sur tous les continents
+
++50
+
+partenariats industriels avec les meilleurs acteurs du marché
+
+---
+
+Une présence mondiale, un service local
+Nos équipes sont présentes dans 65 pays pour déployer et superviser vos réseaux et vos solutions digitales au quotidien. En plus, le réseau d’Orange couvre plus de 200 pays et territoires.
+
+Orange, un leader mondial des réseaux
+Europe
+Afrique et Moyen-Orient
+Asie
+Amérique du Nord
+Amérique du Sud
+
+
+
+
+
+play
+services numériques unique
+Une histoire qui fait de nous un acteur unique
+Depuis les réseaux jusqu’au cloud en passant par les plateformes de services, nous sommes forts d’expériences riches, de défis relevés et d’innovations audacieuses.
+
+Fiers de notre évolution unique au cœur de toute la chaine de valeur du monde digital, résolument tournés vers l’avenir, nous avons l’ambition affirmée de devenir l’intégrateur européen réseau et numérique de référence. Découvrez les grandes étapes de notre histoire.
+
+2.Nos expertises
+
+---
+
+Une combinaison unique d’expertises
+Vous pouvez compter sur notre savoir-faire d’intégrateur réseaux et numérique, et notre champ d’expertises en solutions de connectivité nouvelle génération pour rendre votre transformation digitale efficace et durable.
+
+Une maîtrise unique des infrastructures sécurisées et modulaires
+Connectivité, cloud et cybersécurité sont le socle de toute infrastructure numérique. Nos capacités d’intégration d’infrastructures et notre expertise dans ces 3 domaines, nous permettent d’orchestrer vos infrastructures autour de ces enjeux.
+
+Connectivité
+
+Notre leadership dans la connectivité est largement reconnu. Notre réseau mondial est d’ores et déjà l’un des plus virtualisés. Il nous permet de tirer parti au mieux de nos partenariats et de proposer des services réseaux différenciants.
+Cloud
+
+---
+
+Avec plus de 2 600 experts nous sommes en mesure de délivrer l’ensemble des services lié à l’infrastructure en mode cloud. Grâce à nos 70 datacenters, nous assurons la sécurité 24/7 et la performance de vos applications sur l’ensemble du globe.
+Cybersécurité
+
+Avec les 2 500 experts d’Orange Cyberdefense, nous plaçons la cybersécurité au cœur des activités de nos clients. Notre motto : Powered by Orange Business, Secured by Orange Cyberdefense.
+En savoir plus
+Ce sont ces expertises qui nous permettent d’orchestrer et sécuriser de bout en bout vos infrastructures numériques en nous appuyant sur notre plateforme de services d'infrastructure numérisés, évolutifs et à la demande.
+core expertises orange business
+Toujours plus loin dans l'accompagnement
+Les entreprises engagées dans une transformation digitale de grande envergure accélérée par les crises sanitaires et géopolitiques peuvent compter sur nous : nous comprenons les complexités auxquelles elles sont confrontées.
+
+---
+
+C’est pourquoi, notre accompagnement va bien au-delà du consulting : nous construisons, délivrons, opérons et orchestrons des infrastructures numériques complexes et globales. Au cœur de ces enjeux : la création de valeur permise par le numérique.
+
+services digitaux orange business
+Toujours plus loin dans les services digitaux
+Vous avez besoin de services numériques d’excellence pour compléter les composants de vos infrastructures. Nous sommes à vos côtés pour vous apporter les services d’intégration en matière de gestion et de services numériques.
+
+Pour vous accompagner, Digital Services France et Digital Services Europe, regroupent 4 000 experts en Data et IA spécialistes en gouvernance et exploitation des données. Par exemple pour améliorer l'expérience client d'un centre de contact ou la productivité des collaborateurs.
+
+---
+
+Des solutions sur mesure pour répondre à vos enjeux
+Parce que votre écosystème change constamment, nous proposons des solutions de bout en bout conçues pour répondre à vos besoins et anticiper les attentes de vos clients ainsi que vos enjeux business.
+
+Construire votre infrastructure numérique
+Dynamiser l’expérience du travail collaboratif
+Développer une relation client personnalisée
+Optimiser l'industrie en digitalisant outils, processus et produits
+Rendre votre transformation digitale efficace et durable
+La rigueur d’un expert des réseaux et de la connectivité associée à l’agilité d’un intégrateur de solutions numériques fait d’Orange Business un acteur unique.
+
+Nos experts et nos partenaires, acteurs majeurs du marché, sont autant d’atouts pour vous accompagner. Notre ambition, devenir l'intégrateur européen réseaux et numérique de référence.
+
+3.Notre responsabilité sociétale
+
+---
+
+Vers un modèle d’entreprise responsable et engagé
+Chez Orange Business, nous avons la conviction que chaque progrès technologique doit être utile à l’humain, à la société et à la planète. Nous défendons une vision éthique, responsable et inclusive du numérique.
+
+3 piliers de notre politique avec au cœur la responsabilité sociale et environnementale
+Agir pour l’environnement SVG
+Agir pour l’environnement
+En savoir plus
+Favoriser l’accès à un numérique responsable SVG
+Favoriser l’accès à un numérique responsable
+En savoir plus
+Construire une entreprise inclusive SVG
+Construire une entreprise inclusive
+En savoir plus
+Lead the Future : un nouveau modèle d’entreprise ambitieux
+Le plan stratégique Lead the Future d’Orange s’accompagne de la mise en place d’un nouveau modèle d'entreprise guidé par les enjeux environnementaux, sociaux et de gouvernance. Nos engagements, nos actions et nos compétences sont reconnus par des labels et des organismes externes.
+
+4.Nous rejoindre
+
+---
+
+Révélez votre potentiel
+Ensemble imaginons et construisons un futur plus harmonieux pour les générations à venir. Gagnez en expérience et explorez des possibilités dont vous n’auriez peut-être jamais rêvé. Nous croyons à la réalisation du potentiel de chacun.
+Retrouvez-nous sur Glassdoor.
+
+Chiffres clés
++30 000
+
+collaborateurs répartis dans 65 pays
+
+4/5
+
+note Glassdoor (entreprises évaluées par leurs employés)
+
+87%
+
+de nos employés recommandent Orange Business (note Glassdoor)
+
+94%
+
+note globale Orange à l'index d'égalité femmes-hommes (Mixity)
+
+87%
+
+score Orange pour l’Impact global en diversité et inclusion (Mixity)
+
+---
+
+Travailler au quotidien chez Orange Business
+Innover et être des Change Makers
+Valoriser l’inclusion
+Se développer et grandir
+« Feel good »
+Cultiver l’esprit de confiance
+Innover et être des Change Makers 
+Innover et être des Change Makers
+Nous célébrons chaque année les initiatives de nos équipes qui ont fait la différence lors des Change Makers Awards. En retour, nous proposons des formations certifiantes et programmes de mentorat pour vous aider à élargir le champ de votre carrière et vous enrichir de nouvelles compétences.
+
+Valoriser l’inclusion orange business
+Valoriser l’inclusion
+Notre culture de l'innovation encourage chaque collaborateur à exprimer ses idées. En créant des équipes diverses, ensemble, nous construisons un monde plus inclusif et durable et créons un impact positif pour nos clients.
+
+---
+
+Se développer et grandir orange business
+Se développer et grandir
+Nous croyons à la réalisation du potentiel de chacun. À chaque étape de votre parcours professionnel, vous avez la possibilité de vous développer, d'apprendre de vos erreurs, de demander et de donner du feedback afin de réaliser votre plein potentiel.
+
+Feel good orange business
+« Feel good »
+Nous aspirons à offrir à tous nos collaborateurs un environnement sain et respectueux, où l’on se sent bien. Un environnement où votre voix est entendue et où vous vous sentirez toujours le bienvenu. L’équilibre vie pro/vie perso fait partie intégrante de notre ADN.
+
+cultiver l'esprit de confiance orange business
+Cultiver l’esprit de confiance
+Nous sommes une entreprise nourrie par la collaboration, les idées et la confiance. En parlant et agissant d'une seule voix, nous contribuons tous à la stratégie globale d’Orange Business et à ses ambitions et créons un impact positif pour nos clients.
+
+---
+
+Trouvez votre prochain job !
+Rejoindre Orange Business c’est l’opportunité de travailler avec des experts : 6 000 experts SDX, 4 000 experts Data, Digital et IA, 2 600 experts Cloud, 2 500 experts Cyberdefense, d’évoluer dans un environnement multiculturel avec des équipes présentes dans 65 pays sur tous les continents, et de changer de job ou de pays régulièrement si on le souhaite.
+
+Toutes nos offres
+
+En savoir plus
+Intelligence artificielle
+
+En savoir plus
+Internet des objets
+
+En savoir plus
+Cloud Computing
+
+En savoir plus
+Big Data
+
+En savoir plus
+Consulting
+
+---
+
+En savoir plus
+Diversité et inclusion : les valeurs d’Orange Business
+Nous vous donnons la possibilité de grandir et de vous construire une carrière passionnante et enrichissante dans un environnement de confiance et de diversité.
+femmes entreprises orange business
+94% : la parité homme-femme chez Orange
+Nous sommes fiers d’annoncer à titre d’exemplarité que les femmes représentent 43% de l’équipe dirigeante d’Orange Business. Notre ambition en 2025 est d’atteindre 25% de femmes dans les métiers techniques et 33% de femmes dans nos effectifs totaux.
+
+onboarding et offboarding
+Score Mixity Orange : 87% pour notre impact global en diversité et inclusion
+Nous nous efforçons d’offrir à nos salariés un environnement sain dans lequel ils pourront s’épanouir quotidiennement et accomplir leurs rêves. Mixity nous donne un score de 87% pour l’impact global en diversité et inclusion. Nous avons obtenu 90% pour le handicap et 91% pour LGBTQIA+.
+
+---
+
+question environnementale green act orange business
+La question environnementale au cœur de nos activités quotidiennes
+Avec son programme Grenn Act, Orange vise à intégrer les questions environnementales dans ses processus et activités, et ceux de ses parties prenantes :
+
+Objectif net zéro carbone d’ici 2040.
+50% d’énergies renouvelables dans notre mix électrique d’ici 2025.
+100% des produits avec la marque Orange éco-conçus d’ici 2025.
+A travers notre programme Green Act, nous contribuons à réduire l’impact écologique de nos activités et accompagner nos clients dans leur transformation numérique durable. Orange Business contribue aux objectifs environnementaux du Groupe Orange.
+
+5.Innover ensemble
+
+---
+
+Une approche responsable de l’innovation
+Dans un contexte où la concurrence s’accroît et où le time-to-market se réduit, vous avez besoin de gagner en agilité, en pertinence et en rapidité dans vos processus d’innovation. Rencontrons-nous pour construire les solutions d’aujourd’hui et inventons celles de demain. Ensemble, créons un impact positif pour votre business, vos clients, et la planète. Grâce à notre approche de co-innovation, nous vous aidons à transformer les idées en solutions concrètes.
+
+La co-innovation c’est quoi
+Nous vous accompagnons tout au long de votre process d’innovation. Ensemble, nous ciblons vos besoins via des méthodes et des outils innovants, pour cela, nous nous appuyons sur toute la richesse du Groupe Orange ainsi que nos partenaires.
+Les étapes de la co-innovation
+Grâce à notre double expertise d’opérateur et d’intégrateur, nous vous accompagnons sur vos projets de bout-en-bout. Nous nous appuyons sur des mét...
+
+---
+
+Exploration
+Idéation
+Prototypage
+Expérimentation
+Industrialisation
+Évaluation et retour à l’étape 1 !
+
+Exploration
+On explore le sujet jusqu’à définir la une problématique claire, en étroite collaboration avec l’utilisateur final, via une phase d’écoute et d’observation.
+
+Idéation
+Idéation
+On imagine les solutions pertinentes vis-à-vis du problème posé, durant une phase créative d’idéation.
+
+Prototypage
+Prototypage
+On réalise une première version de solution, on évalue la pertinence de chaque idée et sa faisabilité.
+
+Expérimentation
+Expérimentation
+On teste On ajuste. On recommence.
+
+Industrialisation
+Industrialisation
+On passe à l’échelle les solutions et on déploie.
+
+Assessment and return to stage 1
+Évaluation et retour à l’étape 1 !
+On évalue régulièrement la solution et on ajuste en permanence en mode agile.
+
+6.Nos partenaires
+
+---
+
+Partenaires
+Partenariats d'excellence pour la création de valeur
+Nous orchestrons et innovons avec un large écosystème de partenaires mondiaux et locaux, qui nous donne la capacité de nous adapter aux bénéfices attendus. Avec notre expertise approfondie et notre solide expérience, nous sommes bien équipés pour générer un succès à long terme et durable. D'ici 2025, notre objectif est d'obtenir 20 000 certifications, ce qui consolidera notre position en tant que leader dans l'industrie.
+
+     
+
+Microsoft
+Partenaire majeur pour accélérer la transformation des entreprises
+
+
+AWS
+Amazon Web Services est la plateforme cloud la plus complète et adoptée au monde
+
+
+Cisco
+Partenaire majeur de votre transformation digitale
+
+
+Paloalto
+Palo Alto Networks, notre partenaire pour protéger les informations et systèmes des cyberattaques
+
+PreviousNext
+
+Solution
+
+---
+
+Catégorie
+[Logo][PNG] BleuCloud
+Accompagner la transformation des entreprises dans un environnement de confiance numérique
+awsCloud
+Amazon Web Services est la plateforme cloud la plus complète et adoptée au monde
+ciscoConnectivité enrichie
+Cisco, partenaire majeur de votre transformation digitale
+ 100x19_logo_VMwareCloud
+VMware, fournisseur de cloud hybride pour soutenir votre transformation numérique
+ 100X22_logo_genesys.png Data intelligence
+Genesys enrichit l’Expérience Client à l’ère du digital
+100x49_apple.pngMobile Workspace
+Orange Business, accrédité Apple Authorised Enterprise Reseller
+ 100X42_logo_Hewlett_Packard_EnterpriseCloud
+HPE, leader du cloud hybride, de la mobilité intelligente et des services professionnels
+klaxoon_300Espaces collaboratifs
+Klaxoon & Orange développent des nouveaux modes de collaboration pour des workshops productifs et efficaces
+100x94_logo_crosscall.pngEspaces collaboratifs
+CROSSCALL, le choix de la durabilité pour tous les professionnels
+100x46_logobmc.png Cloud
+BMC Helix : l’excellence en matière de gestion des services
+LeanIX
+LeanIX, notre partenaire pour vos transformations digitales
+SharingCloud Espaces collaboratifs
+SharingCloud, partenaire de nos solutions de Smart Building
+100x18_logo_checkpointCyberdefense
+Check Point Software Technologies : logiciels et matériels associés pour assurer la sécurité de l’IT
+300_logo-mitel_0.pngEspaces collaboratifs
+Mitel, partenaire stratégique pour nos solutions de communications uniﬁées
+100x20_logo_microsoftCloud
+Comment accéder au cloud Microsoft Azure ?
+
+---
+
+Partenaires
+Partenariats d'excellence pour la création de valeur
+Nous orchestrons et innovons avec un large écosystème de partenaires mondiaux et locaux, qui nous donne la capacité de nous adapter aux bénéfices attendus. Avec notre expertise approfondie et notre solide expérience, nous sommes bien équipés pour générer un succès à long terme et durable. D'ici 2025, notre objectif est d'obtenir 20 000 certifications, ce qui consolidera notre position en tant que leader dans l'industrie.
+
+     
+
+Microsoft
+Partenaire majeur pour accélérer la transformation des entreprises
+
+
+AWS
+Amazon Web Services est la plateforme cloud la plus complète et adoptée au monde
+
+
+Cisco
+Partenaire majeur de votre transformation digitale
+
+
+Paloalto
+Palo Alto Networks, notre partenaire pour protéger les informations et systèmes des cyberattaques
+
+---
+
+Partenaires
+Partenariats d'excellence pour la création de valeur
+Nous orchestrons et innovons avec un large écosystème de partenaires mondiaux et locaux, qui nous donne la capacité de nous adapter aux bénéfices attendus. Avec notre expertise approfondie et notre solide expérience, nous sommes bien équipés pour générer un succès à long terme et durable. D'ici 2025, notre objectif est d'obtenir 20 000 certifications, ce qui consolidera notre position en tant que leader dans l'industrie.
+
+     
+
+Microsoft
+Partenaire majeur pour accélérer la transformation des entreprises
+
+
+AWS
+Amazon Web Services est la plateforme cloud la plus complète et adoptée au monde
+
+
+Cisco
+Partenaire majeur de votre transformation digitale
+
+
+Paloalto
+Palo Alto Networks, notre partenaire pour protéger les informations et systèmes des cyberattaques
+
+7.L’avis des analystes
+
+---
+
+Analysts
+Quelle est la perception des analystes industriels sur le positionnement d’Orange Business ?
+Retrouvez ici leurs rapports, régionaux et globaux, qui vous offriront une perspective neutre et indépendante sur nos capacités, nos solutions et leurs recommandations.
+
+
+Analyste
+
+Solution
+
+---
+
+Année
+ISG LOGO20 janvier 2025
+Orange Business nommé Leader dans la catégorie « Advanced Analytics and AI Services 2024 » par ISG
+markess by exaegis23 octobre 2024
+Orange Business nommé Leader des Managed Cloud Services par Markess
+08 octobre 2024
+Orange Business - Collaboration et Contact Client (Monde)
+logo_pac_subhome18 septembre 2024
+Orange Business, leader des services d’IA et d’IA Générative en France et en Europe selon le PAC RADAR 2024
+isg-logo_a-subhome19 juillet 2024
+Orange Business reconnu comme Leader dans le rapport ISG Provider Lens™ Private/Hybrid Cloud – Datacenter Services 2024
+isg-logo_a-subhome08 mai 2024
+ISG Reconnait Orange Business en tant que Leader dans son rapport ISG Provider Lens™ Sovereign Cloud Infrastructure Services Europe 2023
+gartner-logo_subhome_0.png 23 avril 2024
+Gartner® Magic Quadrant™ pour les services WAN mondiaux 2024
+isg-logo_a-subhome05 avril 2024
+Orange Business de nouveau nommé « Leader » dans le rapport ISG Provider Lens TM Multi Public Cloud Services 2023
+isg-logo_a-subhome06 février 2024
+Orange Business s’illustre comme un « Leader » dans le rapport ISG Provider Lens™ Analytics Services Europe 2023
+idc-logo-subhome_new02 février 2024
+Orange Business nommé leader dans le nouveau rapport IDC MarketScape
+gartner-logo_subhome_0.png 26 juillet 2023
+Gartner Market Guide for Service Integration and Management Services - Avril 2023
+markess by exaegis10 juillet 2023
+Orange Business reconnu comme Leader sur les services cloud par Markess by Exaegis
+forrester-logo_subhome224 mai 2023
+Le cloud public d’Orange Business, Flexible Engine, reconnu comme « Très Performant » par Forrester
+globaldata-logo_a-subhome16 mars 2023
+Orange Business classé Very Strong dans le rapport de GlobalData sur les services de cloud hybride managés en 2022
+gartner-logo_subhome_0.png 07 mars 2023
+Gartner Magic Quadrant for Network Services, Global - Février 2023
+310x125_logo-gartner.jpg 07 février 2023
+Gartner Magic Quadrant for Managed IoT Connectivity Services, Worldwide - Janvier 2023
+PaginationCurrent page1Page2Page3Page4Page5Page6Page7Page8Page9Page suivante›
+
+---
+
+Analysts
+Quelle est la perception des analystes industriels sur le positionnement d’Orange Business ?
+Retrouvez ici leurs rapports, régionaux et globaux, qui vous offriront une perspective neutre et indépendante sur nos capacités, nos solutions et leurs recommandations.
+
+
+Analyste
+
+Solution
+
+---
+
+Année
+isg-logo-subhome13 janvier 2023
+ISG Provider Lens - Public Cloud Solutions and Services France - 2023
+logo_pac_subhome08 novembre 2022
+Orange Business reconnu parmi les leaders dans le PAC Radar - Azure IT Ecosystem 2022
+forrester-logo_subhome228 septembre 2022
+Orange Cyberdefense "Leader" dans le classement The Forrester Wave™ : Fournisseurs européens de services de sécurité managés, Q3 2022 qui évalue les fournisseurs européens de services de sécurité managés
+gartner-logo_subhome_0.png 26 juillet 2022
+Orange Business à nouveau reconnu dans le Magic Quadrant™ 2022 de Gartner® pour les services d’externalisation des datacenters et la gestion des infrastructures hybrides au niveau mondial
+globaldata-logo_a-subhome29 juin 2022
+GlobalData Intelligence Report - Service Manage Watch - Mai 2022
+avasant_logo_subhome16 juin 2022
+Avasant Multisourcing Service Integration 2021–2022 RadarView
+idc-logo-subhome_new11 mars 2022
+IDC PeerScape : Mise en place d'une culture de la donnée : Orange Business cité en exemple pour l’Europe
+gartner-logo_subhome_0.png 23 février 2022
+Gartner® Magic Quadrant™ for Network Services, Global - Février 2022
+gartner-logo_subhome_0.png 08 février 2022
+Gartner® « Magic Quadrant™ for Managed IoT Connectivity Services, Worldwide - Janvier 2022
+fs-logo_a-subhome08 décembre 2021
+Orange Business reçoit la récompense Asia Pacific IoT Analytics Services Company of the Year
+logo_451-research_a-subhome08 décembre 2021
+Rapport 451 Research : Orange espère se créer une niche au sein de l'environnement multicloud asiatique
+fs-logo_a-subhome08 décembre 2021
+Orange Business reçoit la récompense « Asia-Pacific Telco Cloud Contact Center Services Company of the Year »
+isg-logo_a-subhome30 novembre 2021
+ISG Provider Lens - Public Cloud Solutions et Services France 2021 - Decembre 2021
+isg-logo_a-subhome30 novembre 2021
+Basefarm reconnu comme leader dans le rapport d'ISG Research sur les services et solutions de Cloud privé/hybride et de centre de données
+idc-logo-subhome_new17 novembre 2021
+Conseil en réseau : Orange maintient sa place parmi les leaders du secteur selon le rapport IDC MarketScape
+everest_subhome16 novembre 2021
+Orange Business remporte le titre de
+
+---
+
+Analysts
+Quelle est la perception des analystes industriels sur le positionnement d’Orange Business ?
+Retrouvez ici leurs rapports, régionaux et globaux, qui vous offriront une perspective neutre et indépendante sur nos capacités, nos solutions et leurs recommandations.
+
+
+Analyste
+
+Solution
+
+---
+
+Année
+gartner-logo_subhome_0.png 06 octobre 2021
+Gartner Market Guide des services d'intégration et de gestion des services – Septembre 2021
+gartner-logo_subhome_0.png 15 septembre 2021
+Gartner Magic Quadrant pour Data Center Outsourcing et Hybrid Infrastructure Managed Services, Monde- Août 2021
+vertical-systems_logo17 août 2021
+Classement Global Provider Carrier Managed SD-WAN LEADERBOARD mi-2021
+isg-subhome_0_1.png23 juillet 2021
+ISG Provider Lens - Networks – Software Defined Solutions and Services - Juin 2021
+OMDIA-logo-subhome19 juillet 2021
+Omdia - Global Managed Services Internet Avril 2021
+globaldata-logo_subhome14 juin 2021
+Orange Business en tête des services Cloud et télécommunications en Asie-Pacifique selon le dernier rapport de GlobalData
+gartner-logo_subhome11 mai 2021
+Orange Business nommé visionnaire avec la meilleure « capacité d'exécution » au sein du Visionary Quadrant du Magic Quadrant 2021 de Gartner pour les services de mobilité managés, Monde
+gartner-logo_subhome06 avril 2021
+Gartner Magic Quadrant for Managed IoT Connectivity Services, Worldwide - Mars 2021
+isg-subhome_0_1.png26 mars 2021
+ISG reconnaît Basefarm comme un leader nordique en matière de solutions et de services de cloud public
+gartner-logo_subhome17 mars 2021
+Orange Business figure parmi les leaders du Magic Quadrant 2021 de Gartner pour les services réseau, à l'échelle mondiale
+globaldata_0.png 16 mars 2021
+Étude de cas de GlobalData : McConnell Dowell présente sa stratégie IoT sur le marché de la construction australienne
+globaldata_0.png 11 mars 2021
+GlobalData - Rapport d'évaluation des services Cloud hybrides gérés - Février 2021
+globaldata_0.png 16 février 2021
+Orange obtient la mention « Très performant » dans le rapport « Global Enterprise Mobility Services: Competitive Landscape Assessment » de GlobalData
+forrester-logo_subhome220 janvier 2021
+Rapport Forrester Research : « Understanding the Cloud Service Provider Landscape »
+frost-sullivan_1_1.png14 décembre 2020
+Prix de l'innovation et du leadership en matière de stratégie concurrentielle pour l'UCaaS et la téléphonie IP hébergée de 2020 pour la région Asie-Pacifique pour Frost & Sullivan
+Frost and Sullivan14 décembre 2020
+Fournisseur de services pour centres de contacts dans le Cloud 2020 APAC
+PaginationPage précédente‹Page1Page2Current page3Page4Page5Page6Page7Page8Page9Page suivante›
+
+---
+
+10.L'espace presse
+
+Espace Presse
+Retrouvez sur cette page les dossiers, les communiqués de presse ainsi que toutes les informations relatives à l'actualité d'Orange Business.
+  Communiqués de presse
+
+Solutions
+
+jj/mm/aaaa
+
+---
+
+jj/mm/aaaa
+wassila et mireille31 mars 2025 - Communiqué de presse
+Orange Business renforce son équipe de direction avec deux nominations stratégiques
+SITA et Orange Business renforcent la connectivité du transport aérien pour un avenir plus résilient20 mars 2025 - Communiqué de presse
+SITA et Orange Business renforcent la connectivité du transport aérien pour un avenir plus résilient
+rob willcock28 février 2025 - Communiqué de presse
+Orange Business renforce sa direction avec Rob Willcock à la tête des activités internationales
+Orange and La Poste second life to network equipment Paris Olympic09 décembre 2024 - Communiqué de presse
+La Poste et Orange s’associent pour donner une seconde vie aux équipements Réseau utilisés pendant les Jeux Olympiques et Paralympiques de Paris 2024
+Subhome icon Blogs
+Retrouvez l'ensemble de nos articles de blog
+
+---
+
+En savoir plus
+À propos d’Orange Business
+Orange Business, l’entité du Groupe Orange dédiée aux entreprises, est un intégrateur réseau et numérique de référence. 
+
+Télécharger
+
+Vos enjeux
+A.Infrastructure Digitale
+
+1.Bénéficier d'une infrastructure numérique évolutive, réactive et sécurisée
+Dans le paysage numérique actuel, il est essentiel de trouver un équilibre entre flexibilité et fiabilité. Grâce à notre approche combinée (cloud, connectivité et cybersécurité) et à nos investissements dans les réseaux mondiaux et les points de présence locaux, nous donnons à vos équipes les moyens d'exceller depuis n'importe où avec des performances optimales. Nos solutions soutiennent votre croissance et vos besoins en matière de sécurité.
+
+2.accélérez votre activité grâce à une infrastructure numérique
+Planifiez, concevez, déployez et gérez votre infrastructure numérique avec nos partenaires experts du cloud, de la connectivité et de la sécurité.
+
+---
+
+3.Obtenez un avantage concurrentiel pour votre entreprise
+Les entreprises dotées d'une infrastructure numérique solide peuvent acquérir un avantage concurrentiel en offrant une expérience client de qualité supérieure et en restant innovantes dans un monde en évolution rapide.
+
+4.Améliorez l’efficacité opérationnelle de votre IT
+Améliorez l'efficacité IT grâce à la gestion centralisée de l'intégration du cloud, de la connectivité et de la cybersécurité. Rationalisez la gestion des ressources, stimulez l'évolutivité, facilitez les communications et assurez une protection solide contre les cybermenaces.
+
+5.Stimulez la satisfaction des employés grâce à l'expérience numérique
+Aidez vos équipes IT à soutenir votre activité en donnant la priorité à la performance de vos applications les plus critiques. Garantissez une fiabilité dans le temps et favorisez un environnement de travail plus connecté et efficace qui génère une meilleure satisfaction de vos employés.
+
+---
+
+6.Gérez et contrôlez les coûts des services digitaux et cloud
+Utilisez des services cloud pour améliorer l'évolutivité, la flexibilité et la rentabilité. Allouez dynamiquement les ressources en fonction des besoins, en adaptant rapidement les systèmes d’information à l'évolution des besoins de l'entreprise.
+
+7.Réagissez rapidement et efficacement aux cyberattaques.
+Veillez à ce que votre activité puisse fonctionner en toute sécurité grâce à une forte résilience, minimisez les dommages, préservez la confiance des clients, sauvegardez les données critiques, maintenez la continuité de l'activité et réduisez les pertes financières et les atteintes à la réputation.
+
+8.Nous soutenons chaque étape de votre transformation numérique
+EP - Digital Consulting
+Digital Consulting
+Profitez de notre expertise et de nos innovations en matière de conseil en numérique pour une transition en douceur vers des opérations optimisées.
+
+---
+
+En savoir plus
+EP - SASE
+SASE (Secured Access Service Edge)
+Permettez à vos équipes de travailler de n'importe où grâce à un réseau sécurisé et distribué conçu pour répondre à vos besoins.
+
+En savoir plus
+Agir pour l’environnement SVG
+Cloud Networking
+Nous concevons, construisons et gérons avec vous une infrastructure cloud sécurisée, évolutive, automatisée et fiable.
+
+En savoir plus
+EP - Multi-cloud Optimization
+Optimisation multicloud
+L'optimisation multicloud permet l’adaptation de la stratégie cloud aux besoins spécifiques, en optimisant les performances et la rentabilité.
+
+---
+
+En savoir plus
+9.Nous disposons du réseau, des connaissances et des technologies dont vous avez besoin
+reseau technologies orange business
+Présence globale et approche locale
+Avec plus de 70 data centers mondiaux, 5 centres de services répartis sur les 5 continents et des équipes d'assistance dans 65 pays, nous déployons et gérons quotidiennement des réseaux et des solutions. Le réseau Orange s'étend sur plus de 220 pays, garantissant une connectivité sans faille.
+
+un réseau sur mesure pour vos applications “cloud-first”
+Un réseau sur mesure pour vos applications “cloud-first”
+Evolution Platform révolutionne la connectivité des entreprises grâce à une expérience "cloud-native" et à un modèle "as a service". Elle permet une innovation rapide et une mise en réseau sécurisée de l'Edge au Cloud et des services sur mesure et innovant pour les besoins uniques des entreprises.
+
+---
+
+femmes entrepreneuses
+Nous travaillons à votre façon
+Nous proposons des modèles de service et de financement sur mesure pour un soutien optimal aux entreprises. Vous pouvez compter sur une gestion complète de l'infrastructure numérique, co-innover grâce à notre expertise ou accéder à une technologie transformatrice.
+
+chaque étape de votre transformation orange business
+à chaque étape de votre transformation
+En tant qu'opérateur de réseau, intégrateur de systèmes et fournisseur de services, nous vous aidons dans toutes les phases de votre transformation digitale. De la conception à la mise en œuvre, nous proposons des solutions de bout en bout qui contribuent au succès de votre entreprise.
+
+---
+
+Travaillez avec les leaders
+Travaillez avec les leaders
+Pendant 22 années consécutives, Gartner nous a classés parmi les leaders mondiaux des services de réseau. En partenariat avec plus de 50 acteurs majeurs de l'écosystème, dont AWS, Cisco, Microsoft et diverses start-ups, nous combinons les expertises cloud, connectivité et sécurité.
+
+---
+
+10.Nos clients témoignent
+Jes Reilly, Vice President IT Operations, RS Components
+Le projet de transformation avec Orange s'avère très réussi. Tout en soutenant notre stratégie de travail à distance, la nouvelle infrastructure d'Orange Business soutient une offre omnicanale qui se veut sécurisée, résiliente et évolutive.
+B.Expérience Employé
+1.Mettre en place une solution de collaboration pensée pour les employés
+Libérer les potentiels grâce à un environnement de travail collaboratif sécurisé et adapté à chaque employé.
+Le succès d'une solution de collaboration passe par sa pleine adoption par l'ensemble de ses utilisateurs.
+Orange est à vos côtés pour déployer des outils pensés pour vos employés, et assurer un change management qui leur permette d’être rapidement plus productifs, dans chacun de leur métier.
+
+---
+
+2.Maîtriser la stratégie de transformation
+Assurez le déploiement de votre stratégie et son évaluation régulière.
+Nos consultants et experts travaillent avec vos équipes pour définir les meilleurs outils pour chaque métier, et co-construire le plan d’action : cadrage, définition de KPI, pilotage de la transformation.
+
+3.Réussir la transformation par l'adoption
+Allez au bout de l'appropriation des outils et des fonctionnalités pertinentes pour chaque métier, grâce à un accompagnement au plus proche de vos employés.
+Evitez l’écueil de sous-estimer l’importance la gestion du changement et la difficulté de prise en main des outils de collaboration.
+
+---
+
+4.Intégrer la collaboration et la communication au cœur de l'entreprise
+Optimisez la productivité et l’engagement employé, en intégrant pleinement les solutions de collaboration à vos outils métiers -centre de contact, CRM - et à votre téléphonie d'entreprise.
+Appuyez-vous sur un intégrateur spécialiste de ces outils, et opérateur historique de services de téléphonie.
+
+---
+
+5..Nos clients témoignent
+[Logo][SVG] CHRU NANCY
+Former des équipes en un temps record
+10 000 salariés formés à distance aux outils collaboratifs Office 365
+Un programme de formation en trois phases, construit en concertation avec la DSI RH
+Des équipes très satisfaites de Teams, adopté comme outil central de collaboration
+c.Expérience Client
+1.Améliorer l’expérience client en orchestrant les interactions
+Chez Orange, nous favorisons une approche globale et harmonieuse de l'expérience client. En synchronisant tous les points de contact humains et digitaux, vous offrez une expérience cohérente et personnalisée à chaque étape du parcours client. En comprenant les préférences individuelles, l'orchestration des interactions permet de répondre efficacement aux clients et, de renforcer leur satisfaction et leur fidélité, tout en optimisant les processus internes pour une meilleure efficacité globale.
+
+---
+
+Pour une expérience client digitale, omnicanale et cognitive
+un parcours omnicanal pour construire une expérience client fiable, sécurisée et personnalisée!
+
+2.Passer des canaux digitaux à l'omniprésence digitale
+Au-delà des canaux physiques et vocaux, générer une présence numérique de toutes les activités et assurer la cohérence de l'expérience client sur tous les points de contact. Développer l’exploitation des données pour valoriser les interactions.
+
+3.Proposer un service haut de gamme et hyper-personnalisé
+Créer de la valeur à partir des données clients en intégrant l’analyse en temps réel à l’IA, pour des parcours clients réactifs sur tous les points de contact. Assurer que l’hyperpersonnalisation pourra passer à l’échelle avec des performances exemplaires.
+
+---
+
+4.Sécuriser l'expérience client avec confiance et transparence
+Garantir que tous les efforts de personnalisation sont conformes à la protection de la vie privée et des données. La sécurité et la fiabilité des processus de paiement, notamment, accroissent la confiance des clients dans le support.
+
+5.Renforcer l'engagement client et employé
+La continuité et la transparence de l’expérience client sont fortement corrélées à la capacité des employés à interagir avec la même facilité. Ainsi, simplifier et orchestrer les interactions pour rationaliser les processus améliore l’efficacité et la pertinence relationnelle.
+
+6.Trouver l’équilibre entre automatisation et interaction humaine
+Intégrer harmonieusement les outils digitaux aux interactions afin d'équilibrer l'efficacité de la technologie et le contact humain dans l'expérience du client. Analyser les conversations pour mieux automatiser les interactions en générant plus de valeur.
+
+---
+
+7.Nos domaines d’action
+ACE - Concentrez-vous sur une expérience client omnicanale et cognitive
+L'expérience client omnicanale et cognitive
+Concentrez-vous sur l'omnicanalité pour améliorer la satisfaction client et l'expérience cognitive pour gagner en réactivité
+
+En savoir plus
+ACE - Complétez l'omniprésence digitale et la création de valeur par la donnée
+L’omniprésence digitale et la création de valeur par la donnée
+Transformez votre entreprise grâce à l'omniprésence digitale et la puissance des données pour une expérience client personnalisée exceptionnelle !
+
+En savoir plus
+ACE - Valorisez l'interaction humaine au bon moment
+L'interaction humaine au bon moment
+Transformez votre expérience client avec l’humain au cœur. Trouvez le bon compromis en prenant en compte les émotions et les moments clés.
+
+---
+
+En savoir plus
+Orange Business booste votre expérience client
+Solution combinée Orange et partenaires
+Solution combinée Orange et partenaires
+Notre écosystème unique de partenaires et le développement continu de nos compétences font d'Orange Business l'acteur idéal pour l'intégration de technologies telles qu’Adobe, Microsoft Dynamics, Nice, Genesys…
+
+Approche orientée valeur et résultat
+Approche orientée valeur et résultat
+La connaissance étant au cœur de l'expérience client, nos compétences spécifiques en matière de gestion des données, de gouvernance et d'architecture modifient l'approche traditionnelle pour se concentrer sur la création de valeur pour toutes les parties prenantes.
+
+287 millions de clients
+287 millions de clients
+Chaque jour, nous travaillons à l'amélioration de l'expérience client et employé. Nos solutions sont mises en œuvre pour gérer efficacement nos relations client grand public et accélérer la pertinence relationnelle grâce à des technologies avancées.
+
+---
+
+Données sensibles traitées en confiance
+Données sensibles traitées en confiance
+Nous proposons des solutions et services de confiance afin d'assurer la conformité dans tous les pays d’activité et assurer protection, fiabilité et résilience.
+
+---
+
+8.Nos clients témoignent des transformations de leur expérience client
+Nelly Blanquet, Animatrice qualité de la relation client, Vendée Habitat
+En agence, l’outil apporte un gain de temps pour les équipes. Elles ont accès à l’information plus rapidement et peuvent donc délivrer une réponse plus proactive pour les locataires.
+D.Expérience Opérationnelle
+1.Optimiser l'industrie, en digitalisant outils, processus et produits
+Les technologies et solutions IT appliquées au domaine de l'OT, améliorent la productivité et la sécurité, réduisent les coûts, permettent l'optimisation des processus et la création de services à valeur ajoutée pour vos clients. Orange vous accompagne pour déterminer les meilleurs business cases, mettre en place et maintenir les infrastructures sécurisées indispensables, permettre le rapprochement IT/OT, et accélérer la création de valeur.
+
+---
+
+2.Moderniser et sécuriser, les technologies de l’IT au service de l’OT
+Moderniser, connecter et sécuriser vos infrastructures IT
+Concevoir et déployer les infrastructures digitales - réseau, capacités de calcul, cybersécurité, cloud/edge - qui constituent le socle de l'amélioration de vos processus opérationnels en permettant la convergence OT/IT.
+
+3.Sécuriser l'environnement de travail et assister vos employés
+Prévenir les incidents, garantir la sécurité de vos employés et éviter les interruptions de productions,
+Disposer des outils digitaux qui aident vos employés à accomplir leurs missions plus efficacement.
+
+4.Gagner en efficacité opérationnelle
+Digitaliser vos processus pour gagner en compétitivité et améliorer la disponibilité de l'outil industriel.
+Superviser processus et outils de production, déployer, par exemple, des solutions de contrôle qualité automatisées et créer les interactions avec les applications métier de vos employés.
+
+---
+
+5.Créer de nouvelles opportunités business et se différencier
+Grâce à vos équipements manufacturés connectés, élaborer de nouveaux services (maintenance, paiement à l'usage, ...) à destination de vos exploitants et de vos clients.
+Enrichir vos business models grâce aux données collectées, et sécuriser l'utilisation de vos équipements.
+
+6.Exploiter les richesses de vos données opérationnelles
+Collecter vos données OT et en extraire l'information pertinente afin d'optimiser vos processus de production, améliorer la qualité, optimiser les consommations et rejets de Gaz à effet de serre, réduire les déchets …
+
+7.Nos domaines d’action
+SI - Des infrastructures adaptées aux cas d'usage industriels
+Infrastructures flexibles et sécurisées
+Concevez, déployez et assurez la maintenance des infrastructures indispensables à la digitalisation de vos processus, de vos outils et de vos produits
+
+---
+
+En savoir plus
+Favoriser l’accès à un numérique responsable SVG
+Produits intelligents connectés
+Connecter vos produits pour repenser et valoriser vos services, et vos outils de production pour optimiser vos processus.
+
+En savoir plus
+SI - Des solutions prêtes à déployer pour améliorer l'efficacité opérationnelle
+Renforcer l'efficacité opérationnelle
+Améliorez la qualité et la productivité grâce aux technologies qui apportent automatisation, supervision, digitalisation et optimisation
+
+En savoir plus
+SI - Performance ESG
+Utiliser les données pour piloter vos initiatives environnementales
+Mettre l'IT au service de votre performance environnementale, et être accompagné du choix des cas d’usage à la mise en œuvre de solutions pragmatiques
+
+En savoir plus
+SI -  Travailleurs assistés
+Sécurité et efficacité de vos employés
+Mettez les technologies IT au service de la sécurité et de l'efficacité de vos employés
+
+---
+
+En savoir plus
+Nos expertises au service de votre digitalisation industrielle
+Opérateur et intégrateur global
+Opérateur et intégrateur global
+Combiner la puissance d'un opérateur intégrateur avec la proximité de spécialistes locaux, pour concevoir déployer et gérer les infrastructures qui accélèrent la digitalisation de l'industrie.
+
+8.Leader en cybersécurité 
+Leader en cybersécurité
+Une expertise éprouvée pour maintenir vos solutions au meilleur niveau de sécurité. Orange Cyberdéfense, leader reconnu des solutions et services de cybersécurité, développe des pratiques dédiées à l'industrie pour fournir les solutions et niveaux de services indispensables.
+
+---
+
+9.Vaste écosystème de partenaires technologiques 
+Vaste écosystème de partenaires
+Orange Business sélectionne et met en œuvre les technologies pertinentes, et entretient un vaste éco-système de partenaires dans les technologies telles que l'IoT, la géolocalisation, la supervision industrielle, les Gateways OT/IT, la réalité augmentée ou virtuelle, d'intelligence artificielle, etc
+
+10.Des équipes de consultants proches des métiers et des solutions concrètes
+Des consultants proches des métiers
+Les experts d'Orange consulting combinent connaissance des environnements industriels et des technologies et solutions du marché, pour apporter des propositions pragmatiques et efficaces au service de votre performance. Ils viendront vous voir avec plaisir, et leurs chaussures de sécurité !
+
+---
+
+11.Nos clients témoignent
+David Glijer, Directeur de la transformation digitale, ArcelorMittal France
+ArcelorMittal transforme ses façons de travailler. Les technologies de l’industrie 4.0 permettent d’améliorer la fiabilité, la sécurité et le confort des opérateurs, la productivité, la qualité… Aujourd’hui, l’apport de la 5G est clé
+E.Confiance Numérique
+1.Bâtir un environnement numérique de confiance
+A l’heure où les entreprises accélèrent leur digitalisation, où les cyberattaques se multiplient et où la règlementation dans le cyberespace se densifie, la confiance numérique est au cœur de toutes les préoccupations. Nous vous accompagnons pour bâtir votre environnement de confiance et protéger vos données en tenant compte des volets technologiques, réglementaires et opérationnels.
+
+2.Vos enjeux autour de la confiance numérique
+Augmentez le niveau de sécurité et la maîtrise de vos données, conformez votre SI aux nouvelles réglementations, sans limiter l'innovation
+
+---
+
+3.Protéger les données de son entreprise et celles de ses clients
+Au-delà de l’interopérabilité, l’éthique, la réversibilité et la transparence qui sont inscrits dans l’ADN des offres d’Orange Business et Orange Cyberdéfense, nous vous aidons à augmenter le niveau de sécurité adapté à la criticité de vos données : audits, intégration, gestion de la sécurité, SOC, CyberSOC.
+
+4.Se conformer aux exigences règlementaires
+RGPD, NIS 2, DORA, LPM, EUCS demain, etc. Nous vous accompagnons dans la compréhension des enjeux et la mise en conformité de votre entreprise. De l’analyse amont, à la mise en œuvre des solutions et le maintien de cette conformité, nous sommes votre partenaire dans la durée.
+
+---
+
+5.Protéger vos données des lois extra territoriales
+Vous prémunir de la fuite de vos données hors de l’Europe en choisissant un partenaire qui vous garantit juridiquement l’immunité de vos données aux lois extra territoriales. Orange Business est une société de droit Français qui peut héberger , gérer et protéger vos données en Europe.
+
+6.Concilier innovation, sécurité et souveraineté
+L’innovation ne doit pas être le signe d’une perte de contrôle de ses données. Nous vous aidons à augmenter le niveau de sécurité de vos données dans les clouds publics, et sécuriser vos données critiques dans des environnements de confiance.
+
+7.Pouvoir choisir des solutions souveraines
+Maîtrisez vos choix technologiques, de vos infrastructures à vos services de collaboration, messagerie, outils Web analytics et Workplace en optant pour des solutions françaises ou européennes.
+
+---
+
+8.Nos domaines d’action
+T - Un socle d'infrastructure de confiance résilient et sécurisé
+S’appuyer sur un socle d’infrastructure résilient et sécurisé
+Augmentez le niveau de confiance de votre connectivité et infrastructure Cloud
+
+En savoir plus
+T - Protection de vos données & IA Ethique
+Protéger vos données et créer des IA Responsables
+Mettez vos données et vos IA au cœur de votre stratégie de confiance numérique
+
+En savoir plus
+T - Des applications et services souverains
+Choisir les services adaptés à la criticité de vos activités
+Choisissez un partenaire de confiance pour l’intégration et la gestion de vos services et applications collaboratifs et métiers
+
+---
+
+En savoir plus
+Un partenaire de confiance unique
+La confiance comme ADN orange business
+La confiance comme ADN
+Nos statuts l’annoncent haut et clair : « Orange est l'acteur de confiance qui donne à chacune et à chacun les clés d'un monde numérique responsable ».
+Nous érigeons le socle de sécurité numérique avec nos experts Cyberdéfense et Data, et nous nous engageons pour contribuer à la confiance de demain.
+
+9.Des solutions hautement certifiées avec orange business
+Des solutions hautement certifiées
+Nos certifications sont nos gages de confiance : ISO27k, HDS, PASSI, PSE/E, PDIS, PRIS, SOC1 Type 2, SOC2 Type 2, European NIS Directive, General Data Protection Regulation (GDPR), et d’autres encore à venir (SecnumCloud, PAMS, PCI DSS…)
+
+---
+
+Une présence locale et globale
+Une présence locale et globale
+Orange Business vous accompagne dans vos enjeux de souveraineté, quelle que soit votre géographie, avec des offres conformes aux réglementations en matière de protection des données dans de nombreux pays européens et des solutions de sécurisation à l’échelle mondiale.
+
+Acteur unique, expertises multiples avec orange business
+Acteur unique, expertises multiples
+Seul acteur transverse à la hauteur de vos enjeux de plateformes, d’exploitation et de services, Orange Business est expert aussi bien en matière de cybersécurité et de connectivité que sur le plan des données et du développement applicatif, quel que soit le niveau de criticité de votre activité.
+
+---
+
+10.Nos clients nous font confiance
+Vincent Boyer, Directeur technique d’Open Bee
+« Je vois plusieurs bénéfices à travailler avec Orange Business, notamment leur expertise et leur côté humain. Ce point est crucial pour nous car le côté technique n’est pas le seul à prendre en compte pour la réussite d’un projet. »
+F.Numérique Responsable
+1.Favoriser une transformation durable avec le Numérique Responsable
+Réduire ses déchets et l’impact de son activité sur l’environnement, viser l’objectif Net Zéro Carbone, favoriser l’économie circulaire et l’écodesign : ces actions deviennent une nécessité réglementaire, économique et commerciale qui influe sur votre notoriété auprès de vos clients, de vos salariés et de vos investisseurs.
+
+.Orange Business vous accompagne dans cette démarche selon 2 piliers :
+. les solutions pour la transition environnementale
+. les produits et services IT à impact réduit
+
+---
+
+Vos enjeux de Numérique Responsable
+Mener une transformation durable, c’est choisir d’investir pour le futur, de renforcer la notoriété de sa marque et de limiter les risques.
+
+2.Comprendre et mesurer son empreinte carbone et environnementale
+La première étape d’une transformation responsable consiste à comprendre et mesurer l’empreinte de son activité. Grâce à nos outils de diagnostic et à notre expertise dans la gestion des données, nos équipes de conseil vous aident à identifier les défis et les leviers d’action.
+
+3.S’adapter au foisonnement de nouvelles réglementations
+De nombreuses lois imposent aux organisations d’agir en faveur de l’environnement mais aussi de publier leurs actions et leurs résultats. Orange propose des produits respectant les réglementations, et accompagne les entreprises dans la mise en conformité et l’établissement de tableaux de bord.
+
+---
+
+4.Assurer la performance durable de son organisation
+Les dérèglements climatiques et les changements structurels - accès aux ressources naturelles, attentes de la société, inflation - imposent aux entreprises d’être résilientes. Orange Business vous aide à optimiser et réduire l’impact de votre IT et de votre activité.
+
+5.Créer un écosystème vertueux de partenaires et fournisseurs engagés
+Travailler avec des fournisseurs engagés permet d’avoir un impact positif crucial sur ses émissions scope 3, souvent bien plus importantes que celles des scopes 1 et 2. Orange Business, proactif et engagé, vous conseille pour une stratégie d’achats responsable pour l’ensemble de votre écosystème.
+
+6.Bâtir votre stratégie digitale responsable
+DD - IT for green
+Utiliser l’IT au service de votre transition écologique
+Réduisez l’empreinte environnementale de vos activités et assurez leur pérennité grâce au numérique responsable
+
+---
+
+En savoir plus
+Construire une entreprise inclusive SVG
+Favoriser des produits et services IT à impact environnemental réduit
+Réduisez l’impact de votre IT dans votre bilan carbone et participer à l’effort de sobriété numérique
+
+En savoir plus
+Orange Business, un partenaire engagé
+consommation énergétique et la décarbonation 
+Impact positif sur votre scope 3
+Choisir un opérateur vertueux impacte votre scope 3. Chez Orange, nous mesurons déjà une baisse de 37% sur nos scopes 1 et 2 depuis 2015 grâce aux efforts effectués sur la consommation énergétique et la décarbonation en favorisant les énergies renouvelables.
+
+7.Bénéficiez de notre propre expérience orange
+Vous bénéficiez de notre propre expérience
+Nous vous faisons bénéficier de méthodologies testées et éprouvées dans la construction de notre stratégie, ainsi que de solutions développées et utilisées au quotidien pour agir sur notre transition environnementale.
+
+---
+
+Nous vous accompagnons de bout en bout
+Nous vous accompagnons de bout en bout
+Grâce à nos différentes expertises - conseil avec Orange Consulting, data avec Business & Decision et notre cœur de métier d’opérateur intégrateur - nous vous accompagnons tout au long de votre processus de transformation digitale durable.
+
+Co-innovons pour l’environnement
+Co-innovons pour l’environnement
+Les possibilités du digital sont infinies et évoluent constamment. Vous avez un projet ? Innovons et partageons nos expertises, pour un impact positif pour notre planète et notre société.
+
+---
+
+8.Nos clients témoignent
+Nicolas Schokaert, Directeur des Systèmes d'Information et de Télécommunication, Communauté d’agglomération du Beauvaisis
+« L’approche d’Orange nous a convaincus, on nous a présenté des consultants expérimentés sur des sujets équivalents dans des collectivités mais aussi une grande expertise en matière de numérique responsable et ça, ça nous a rassurés. »
+G.Cybersécurité
+1.Sécurisez l'entreprise
+La liberté numérique est menacée par des acteurs malveillants qui font de nos espaces de connexion et de progrès des fenêtres d’attaques qui peuvent nuire à nos activités. Chacun peut en être victime, individuellement comme collectivement. Orange Cyberdefense protège ce monde numérique pour qu’il reste un moyen sécurisé de se divertir, d’accéder à des opportunités professionnelles, à des services qui améliorent notre quotidien.
+
+Notre but : construire une société numérique plus sûre.
+
+---
+
+2.Protéger vos données et garantir la continuité de votre activité
+Expertise, technologies et processus soutiennent nos solutions de cybersécurité pour vous accompagner dans la gestion du cycle de vie de la menace.
+
+Découvrez l’expertise Orange Cyberdefense
+Anticiper
+
+Par la connaissance des tendances et des vulnérabilités émergentes, nous anticipons les menaces, évaluons les risques et préparons des stratégies proactives pour renforcer la résilience de votre entreprise face aux cyberattaques et leurs évolutions.
+
+Identifier
+Déceler les vulnérabilités spécifiques à votre secteur d’activité, cartographier les actifs numériques exposés aux risques cyber, comprendre les enjeux prioritaires et vos intérêts, prévenir les failles et former les équipes pour une identification précise des menaces.
+
+---
+
+Protéger
+Sécuriser vos actifs vitaux en prenant des décisions éclairées sur les solutions techniques et les ressources financières et humaines à allouer, assurant ainsi une défense robuste contre les cyberattaques.
+
+Détecter
+Surveiller en temps réel, analyser les événements de sécurité et identifier les signaux faibles, garantissant une réponse rapide et ciblée face aux indicateurs d'intrusion pour minimiser les risques et réduire l'impact des menaces cyber.
+
+Réagir
+Intervenir de manière ciblée en cas de crise, comprendre l'incident, le contenir rapidement, et appliquer des solutions pour restaurer la sécurité, minimiser les dommages et assurer une reprise d’activité dans un environnement numérique protégé.
+
+---
+
+3.Pourquoi Orange Business ?
+cyberdéfense 90% des menaces identifiées avant qu’elles n’aient un impact sur l’entreprise
+Les services, les technologies et les processus dont vous avez besoin
+Des solutions complètes et adaptées à vos besoins qui répondent à vos problématiques cyber : sécurité du Cloud, gestion de crise, conseil et formation, réponse aux incidents, Micro-SOC …
+Vous garantissez ainsi une sécurité numérique forte, globale et sans compromis pour votre activité.
+
+3 000 experts à vos côtés orange business
++ de 3 000 experts à vos côtés
+Nos experts restent vigilants face aux menaces et vulnérabilités les plus récentes, vous offrant une longueur d'avance pour prioriser efficacement la protection. Nous vous accompagnons pour optimiser vos ressources là où elles comptent le plus et manager vos solutions pour maximiser leur efficacité.
+
+---
+
+Une présence mondiale, un ancrage européen
+Une présence mondiale, un ancrage européen
+En 2022 nous avons analysé chaque jour plus de 50 milliards d’alertes de sécurité, résolu plus de 99 000 incidents de sécurité et mené 382 missions de réponse à incident grâce à 2700 experts répartis dans le monde, 18 points de présence de nos SOC et 14 points de présence de nos CyberSOC.
+
+Expertise et savoir-faire éprouvés et reconnus orange business
+Expertise et savoir-faire éprouvés et reconnus
+Nous sommes reconnus par l'ANSSI au travers des 3 qualifications : PASSI, PDIS et PRIS, qui attestent notre conformité aux exigences réglementaires, techniques et organisationnelles, et font de nous un partenaire de confiance labellisé par l’Etat dans la protection cyber de votre entreprise.
+
+---
+
+connaissance de la menace cybersecurite orange business
+Tout ce que nous faisons est nourri par notre connaissance de la menace
+Notre veille constante sur les menaces et vulnérabilités enrichie notre base de Threat Intelligence pour conserver une position d'avant-garde contre les risques, en vous permettant de concentrer vos ressources sur les points critiques pour une protection maximale face aux menaces cyber.
+
+4.Sécuriser des entreprises comme la vôtre
+Jean-David Irsapoullé, DSI, Mairie de Saint-Leu
+Nous souhaitions nous inscrire dans une logique de prévention pour protéger au mieux nos données. C’est un enjeu de réputation, mais aussi de confiance des administrés. A cette fin, nous travaillons avec les experts locaux d’Orange Cyberdefense Océan Indien, tout en ayant l’assurance de nous appuyer sur l’ensemble du Groupe.
+
+---
+
+📍 Adresse
+Orange Business Maroc est situé à :
+Technopolis Rabatshore, Bâtiment B6
+Rocade Rabat-Salé
+11100 Salé, Maroc
+Ce site se trouve dans la zone technologique de Technopolis, à proximité de l'aéroport international de Rabat-Salé .
+
+📞 Coordonnées
+Téléphone : +212 5 22 88 99 60
+Fax : +212 5 22 27 18 88
+Site web : www.orange-business.com
+
+Actuellement, la directrice générale d'Orange Business Maroc est Virginie Vatin. Elle a été nommée à ce poste en octobre 2024, apportant avec elle une nouvelle dynamique pour guider les équipes vers de futures réussites .
+
+---
+
+Actuellement, la directrice générale d'Orange Business Maroc est Virginie Vatin. Elle a été nommée à ce poste en octobre 2024, apportant avec elle une nouvelle dynamique pour guider les équipes vers de futures réussites .
+Virginie Vatin possède une solide expérience dans le secteur des technologies et des services aux entreprises. Depuis sa prise de fonction, elle s'est engagée à renforcer l'impact d'Orange Business Maroc dans les domaines du cloud, de la cybersécurité, de l'intelligence artificielle et de la transformation digitale.
+Pour en savoir plus sur son parcours et ses initiatives, vous pouvez consulter le profil LinkedIn d'Orange Business Maroc
